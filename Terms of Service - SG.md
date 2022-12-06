@@ -7,9 +7,9 @@
 ## General Terms of Service
 
 1. **Preliminary Provisions**
-   1. These terms (**Terms**) are a legally binding agreement between a Member (**you**, **your**, or similar pronoun) and Pace Enterprise Pte Ltd (UEN: 202020243W) (**we**, **us**, **our** or similar pronoun) (together the **Parties** and each a **Party**). These Terms govern your use of the Pace Services and Pace Platform.
-   2. By accessing the Pace Platform, opening an Account, using the Pace Services or otherwise dealing with us, you are deemed to agree to these Terms.
-   3. We may amend these Terms from time to time without requiring your express or implied consent and without prior notice. All amendments to these Terms are effective upon publication on the Pace Platform at [https://pacenow.co/](https://pacenow.co/). You agree that it shall be your responsibility to review these Terms on the Pace Platform before making each Pace Buy (in the case of a Customer Member) or accepting each Pace Buy (in the case of a Merchant Member). Your continued dealings with us, or use of your Account, the Pace Services or the Pace Platform after any amendments to these Terms is deemed your agreement to these Terms, as amended.
+    1. These terms (**Terms**) are a legally binding agreement between a Member (**you**, **your**, or similar pronoun) and Pace Enterprise Pte Ltd (UEN: 202020243W) (**we**, **us**, **our** or similar pronoun) (together the **Parties** and each a **Party**). These Terms govern your use of the Pace Services and Pace Platform.
+    2. By accessing the Pace Platform, opening an Account, using the Pace Services or otherwise dealing with us, you are deemed to agree to these Terms.
+    3. We may amend these Terms from time to time without requiring your express or implied consent and without prior notice. All amendments to these Terms are effective upon publication on the Pace Platform at [https://pacenow.co/](https://pacenow.co/). You agree that it shall be your responsibility to review these Terms on the Pace Platform before making each Pace Buy (in the case of a Customer Member) or accepting each Pace Buy (in the case of a Merchant Member). Your continued dealings with us, or use of your Account, the Pace Services or the Pace Platform after any amendments to these Terms is deemed your agreement to these Terms, as amended.
 2. **Definitions**
 
    In these Terms,
