@@ -11,62 +11,61 @@
     2. By accessing the Pace Platform, opening an Account, using the Pace Services or otherwise dealing with us, you are deemed to agree to these Terms.
     3. We may amend these Terms from time to time without requiring your express or implied consent and without prior notice. All amendments to these Terms are effective upon publication on the Pace Platform at [https://pacenow.co/](https://pacenow.co/). You agree that it shall be your responsibility to review these Terms on the Pace Platform before making each Pace Buy (in the case of a Customer Member) or accepting each Pace Buy (in the case of a Merchant Member). Your continued dealings with us, or use of your Account, the Pace Services or the Pace Platform after any amendments to these Terms is deemed your agreement to these Terms, as amended.
 2. **Definitions**
+    In these Terms,
 
-   In these Terms,
+    **Account** means a valid password-protected user account approved for the Pace Services and Pace Platform.
 
-   **Account** means a valid password-protected user account approved for the Pace Services and Pace Platform.
+    **Customer** means any person, not being a Prohibited Person, purchasing goods or services from a Merchant.
 
-   **Customer** means any person, not being a Prohibited Person, purchasing goods or services from a Merchant.
+    **Member** means a Customer or Merchant who is eligible to use the Pace Services and Pace Platform and has an Account.
 
-   **Member** means a Customer or Merchant who is eligible to use the Pace Services and Pace Platform and has an Account.
+    **Merchant** means any person, not being a Prohibited Person or an entity identified in the Prohibited Transactions, selling and supplying goods or services that are not Prohibited Transactions.
 
-   **Merchant** means any person, not being a Prohibited Person or an entity identified in the Prohibited Transactions, selling and supplying goods or services that are not Prohibited Transactions.
+    **Merchant Bank Account** means a bank account that a Merchant Member legally and beneficially owns and that we accept from time to time for the purposes of Pace Services.
 
-   **Merchant Bank Account** means a bank account that a Merchant Member legally and beneficially owns and that we accept from time to time for the purposes of Pace Services.
+    **Merchant Fee** means a percentage of the price of the Merchant Member's goods or services that are subject to a Pace Buy, as agreed between the Merchant Member and us.
 
-   **Merchant Fee** means a percentage of the price of the Merchant Member's goods or services that are subject to a Pace Buy, as agreed between the Merchant Member and us.
+    **Merchant Limit** means the aggregate amount of Pace Buy receivables which will become owing by the Customer Member to the Merchant Member which Pace is willing to purchase from the Merchant Member and all outstanding receivables arising from previously transacted Pace Buys due from the Customer Member to Pace which remains unpaid.
 
-   **Merchant Limit** means the aggregate amount of Pace Buy receivables which will become owing by the Customer Member to the Merchant Member which Pace is willing to purchase from the Merchant Member and all outstanding receivables arising from previously transacted Pace Buys due from the Customer Member to Pace which remains unpaid.
+    **Pace Buy** means a Customer Member's purchase of goods and services from a Merchant Member, using the Pace Services.
 
-   **Pace Buy** means a Customer Member's purchase of goods and services from a Merchant Member, using the Pace Services.
+    **Pace Buy Limit** means any amount as we may determine from time to time in our sole discretion.
 
-   **Pace Buy Limit** means any amount as we may determine from time to time in our sole discretion.
+    **Pace Platform** means our website, its subdomains or associated websites, our mobile, tablet and other devices, our application program interfaces, software and systems that are used to provide Pace Services.
 
-   **Pace Platform** means our website, its subdomains or associated websites, our mobile, tablet and other devices, our application program interfaces, software and systems that are used to provide Pace Services.
+    **Pace Services** means the services described in the clause below with the heading Pace Services.
 
-   **Pace Services** means the services described in the clause below with the heading Pace Services.
+    **Payment Method** means a debit card, credit card or other payment method that is maintained in the name of the Customer Member and is authorised to use, and that we accept from time to time for the purposes of Pace Services.
 
-   **Payment Method** means a debit card, credit card or other payment method that is maintained in the name of the Customer Member and is authorised to use, and that we accept from time to time for the purposes of Pace Services.
+    **Privacy Policy** means our privacy policy from time to time published at [https://pacenow.co/privacy-policy](https://pacenow.co/privacy-policy/).
 
-   **Privacy Policy** means our privacy policy from time to time published at [https://pacenow.co/privacy-policy](https://pacenow.co/privacy-policy/).
+    **Prohibited Person** means (a) any designated person or entity under the United Nations Act (Cap. 339) and its regulations, (b) any designated person or entity under the Terrorism (Suppression of Financing) Act (Cap. 325) (TSOFA); (c) any person or entity that we have reasonable grounds to suspect that the assets or funds of that person or entity are proceeds of drug dealing or criminal conduct as defined in the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) or are property related to the facilitation or carrying out of any terrorism financing offence as defined in the TSOFA; (d) any anonymous or fictitious entities, confidential numbered accounts, shell banks or shell financial institutions, bearer share companies; (e) any person or entity that for the time being are designated under applicable laws, regulations, notices or guidelines relating to anti-money laundering or combating the financing of terrorism; or (f) any persons or entities affiliated with or related to Prohibited Persons.
 
-   **Prohibited Person** means (a) any designated person or entity under the United Nations Act (Cap. 339) and its regulations, (b) any designated person or entity under the Terrorism (Suppression of Financing) Act (Cap. 325) (TSOFA); (c) any person or entity that we have reasonable grounds to suspect that the assets or funds of that person or entity are proceeds of drug dealing or criminal conduct as defined in the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) or are property related to the facilitation or carrying out of any terrorism financing offence as defined in the TSOFA; (d) any anonymous or fictitious entities, confidential numbered accounts, shell banks or shell financial institutions, bearer share companies; (e) any person or entity that for the time being are designated under applicable laws, regulations, notices or guidelines relating to anti-money laundering or combating the financing of terrorism; or (f) any persons or entities affiliated with or related to Prohibited Persons.
+    **Prohibited Transactions** means any activities, dealings or transactions from time to time stated in the Schedule.
 
-   **Prohibited Transactions** means any activities, dealings or transactions from time to time stated in the Schedule.
+    **Registration Data** means the information (including supporting evidence) that we may from time to time reasonably require from you in relation to your Account or for the purposes of providing the Pace Services or Pace Platform.
 
-   **Registration Data** means the information (including supporting evidence) that we may from time to time reasonably require from you in relation to your Account or for the purposes of providing the Pace Services or Pace Platform.
+    **Reversal** means the reversal of any transaction between a Customer Member and Merchant Member in respect of a purchase which results in either a full or partial refund of the order value to the Customer Member. Decisions on whether a full or partial refund may be made for any order shall be solely resolved, determined and/or agreed by the relevant Customer Member and Merchant Member without any involvement or responsibility by Pace.
 
-   **Reversal** means the reversal of any transaction between a Customer Member and Merchant Member in respect of a purchase which results in either a full or partial refund of the order value to the Customer Member. Decisions on whether a full or partial refund may be made for any order shall be solely resolved, determined and/or agreed by the relevant Customer Member and Merchant Member without any involvement or responsibility by Pace.
+    **Reversal Instruction** means an irrevocable instruction made by a Merchant Member to Pace, either by email or through the Pace Platform, to process a full or partial refund of a Customer Member’s order value.
 
-   **Reversal Instruction** means an irrevocable instruction made by a Merchant Member to Pace, either by email or through the Pace Platform, to process a full or partial refund of a Customer Member’s order value.
+    **Right to Receive Payment** means the right to receive the Customer Member's payment of the price for the Pace Buy.
 
-   **Right to Receive Payment** means the right to receive the Customer Member's payment of the price for the Pace Buy.
+    **Security Breach** means any suspected or actual loss, theft, fraud or unauthorized use of your Account, including any unauthorised disclosure of your Account login password or information.
 
-   **Security Breach** means any suspected or actual loss, theft, fraud or unauthorized use of your Account, including any unauthorised disclosure of your Account login password or information.
-
-1. **Pace Services**
+3. **Pace Services**
 
    Sale and Purchase of the Right to Receive Payment
 
       1. We provide services (**Pace Services**) that enables a Customer Member to pay for Pace Buys from a Merchant Member by three interest-free instalments. A Customer Member shall make all instalment payments using the Payment Method.
       2. When a Customer Member makes a Pace Buy:
-         1. The Merchant Member shall first ensure that the Merchant Limit has not and will not exceed the Merchant Limit as a result of the Pace Buy to be transacted by the Customer Member.
-         2. The Merchant Member, as the sole legal and beneficial owner of the Right to Receive Payment, agrees to irrevocably and unconditionally sell and assign the Right to Receive Payment to us immediately after the Pace Buy is concluded between the Merchant Member and the Customer Member and the Customer Member consents to such sale and assignment.
-         3. For the avoidance of doubt, the Right to Receive Payment is assigned to us immediately after a Pace Buy is concluded. In exchange, we shall exercise commercially reasonable efforts to pay the Merchant Member the price of the Pace Buy within two business days, less the Merchant Fee and any amounts then owing by the Merchant Member to Pace under this Agreement (including any amounts arising from a Reversal transaction). Notwithstanding the foregoing sentence, we reserve the right to defer the settlement date until such other time that the cumulative amounts to be settled to the Merchant Member exceed the sum of S$100.
-         4. We have the sole discretion to accept or reject the assignment to Right to Receive Payment without providing any reason. In case of the rejection of assignment, the Pace Platform shall reject such transaction and a Pace Buy will not be able to be completed. In the event of such rejection, the Merchant Member and the Customer Member shall make their own arrangement in relation to the completion of the sale and purchase of the goods. For the avoidance of doubt, we will not be a party to the transaction (in any capacity) once the Pace Platform has rejected such transaction. It is deemed that all assignments of the Right to Receive Payment are accepted by us if the underlying Pace Buy transaction is not rejected by the Pace Platform or was otherwise transacted in breach of this Agreement.
-         5. The Merchant Member shall authorize Pace to send a notification on behalf of the Merchant Member to the Customer Member’s email address, as provided in the Customer Member’s Registration Data. This notification shall serve as a notice by the Merchant Member to notify the Customer Member that the Right to Receive Payment is assigned to us and shall also contain instructions to the Customer Member regarding the method of payment to us.
-         6. The Customer Member pays us, as the sole legal and beneficial owner of the Right to Receive Payment in place of the Merchant Member, the price of the Pace Buy in three monthly instalments. The first instalment is due and payable upon the Pace Buy.
-         7. Except as provided in this clause, the rights and obligations of the Customer Member and the Merchant Member in relation to the sale and purchase under the Pace Buy remain unchanged.
+          1. The Merchant Member shall first ensure that the Merchant Limit has not and will not exceed the Merchant Limit as a result of the Pace Buy to be transacted by the Customer Member.
+          2. The Merchant Member, as the sole legal and beneficial owner of the Right to Receive Payment, agrees to irrevocably and unconditionally sell and assign the Right to Receive Payment to us immediately after the Pace Buy is concluded between the Merchant Member and the Customer Member and the Customer Member consents to such sale and assignment.
+          3. For the avoidance of doubt, the Right to Receive Payment is assigned to us immediately after a Pace Buy is concluded. In exchange, we shall exercise commercially reasonable efforts to pay the Merchant Member the price of the Pace Buy within two business days, less the Merchant Fee and any amounts then owing by the Merchant Member to Pace under this Agreement (including any amounts arising from a Reversal transaction). Notwithstanding the foregoing sentence, we reserve the right to defer the settlement date until such other time that the cumulative amounts to be settled to the Merchant Member exceed the sum of S$100.
+          4. We have the sole discretion to accept or reject the assignment to Right to Receive Payment without providing any reason. In case of the rejection of assignment, the Pace Platform shall reject such transaction and a Pace Buy will not be able to be completed. In the event of such rejection, the Merchant Member and the Customer Member shall make their own arrangement in relation to the completion of the sale and purchase of the goods. For the avoidance of doubt, we will not be a party to the transaction (in any capacity) once the Pace Platform has rejected such transaction. It is deemed that all assignments of the Right to Receive Payment are accepted by us if the underlying Pace Buy transaction is not rejected by the Pace Platform or was otherwise transacted in breach of this Agreement.
+          5. The Merchant Member shall authorize Pace to send a notification on behalf of the Merchant Member to the Customer Member’s email address, as provided in the Customer Member’s Registration Data. This notification shall serve as a notice by the Merchant Member to notify the Customer Member that the Right to Receive Payment is assigned to us and shall also contain instructions to the Customer Member regarding the method of payment to us.
+          6. The Customer Member pays us, as the sole legal and beneficial owner of the Right to Receive Payment in place of the Merchant Member, the price of the Pace Buy in three monthly instalments. The first instalment is due and payable upon the Pace Buy.
+          7. Except as provided in this clause, the rights and obligations of the Customer Member and the Merchant Member in relation to the sale and purchase under the Pace Buy remain unchanged.
       3. A Merchant Member pays the Merchant Fee for the use of Pace Services.
       4. A Customer Member is not required to pay us any fees for the use of Pace Services. A Merchant Member, in its discretion and independently of us, may charge a Customer Member separate fees for Pace Buys.
       5. Generally, a Customer Member is not permitted to make Pace Buys in excess of the Pace Buy Limit. The Pace Buy Limit is reduced by the total amount of a Customer Member's unpaid instalments. However, we may in our sole discretion permit a Customer Member to make Pace Buys in excess of the Pace Buy Limit provided that the amount paid by the Customer Member for the first instalment at the point of purchase is increased to the extent necessary to ensure that the remaining instalments payable is within the Pace Buy Limit. For the avoidance of doubt, unless excepted as provided in the foregoing sentence, we will not be a party to the transaction (in any capacity) in the event that the Customer Member has exceeded the Pace Buy Limit.
