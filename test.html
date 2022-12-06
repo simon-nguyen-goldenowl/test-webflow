@@ -1,4 +1,60 @@
-<!-- <section>
+<style>
+    ol {
+        list-style: none;
+    }
+    p {
+        display: inline;
+    }
+    li {
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+    .number-list {
+        counter-reset: item 0;
+        margin-left: 1rem;
+        padding-left: 0px;
+    }
+
+    .number-list > li:before {
+        display: inline-block;
+        content: "" counter(item) ". ";
+        counter-increment: item 1;
+        width: 2em;
+        margin-left: -2em;
+    }
+
+    .none-prefix-list {
+        counter-reset: item 0;
+        margin-left: 1rem;
+        padding-left: 0px;
+    }
+
+    .none-prefix-list>li:before {
+        display: inline-block;
+        counter-increment: item 1;
+        width: 2em;
+        margin-left: -2em;
+    }
+
+
+
+    .lower-alphabet-list {
+        counter-reset: item 0;
+        margin-left: 1rem;
+        padding-left: 0px;
+    }
+
+    .lower-alphabet-list>li:before {
+        display: inline-block;
+        content: "(" counter(item, lower-alpha) ") ";
+        counter-increment: item 1;
+        width: 2em;
+        margin-left: -2em;
+    }
+
+    
+</style>
+<section>
     <ol class="none-prefix-list">
         <li>
             <p>Pace Enterprise Japan Co., Ltd. (hereinafter referred to as “the Company”) fully recognizes the
@@ -74,7 +130,7 @@
     <p style="overflow-x: scroll;"><u><b>Handling of Personal Information</b></u></p>
     <p style="overflow-x: scroll;">The following is a list of items that should be disclosed in accordance with the “Act
         on the Protection of Personal Information”.</p>
-    <ol class="lower-number-list">
+    <ol class="number-list">
         <li>
             <p><u>Purpose of Use of Customers' Personal Information</u></p>
             <ol class="none-prefix-list">
@@ -408,6 +464,4 @@
             <p style="overflow-x: scroll;"><br>Email: <a href="mailto:dpo@pacenow.co">dpo@pacenow.co</a></p>
         </li>
     </ol>
-</section> -->
-
-file:///Users/inmac/Downloads/20211206PaceTermsofService_Singapore_redlines.html
+</section>
