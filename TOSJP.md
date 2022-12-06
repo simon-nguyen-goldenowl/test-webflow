@@ -4,10 +4,10 @@
 
     1.  These terms (**Terms**) are a legally binding agreement between
         a Member (**you**, **your**, or similar pronoun) and Pace
-        Enterprise Pte Ltd (UEN: 202020243W) (**we**, **us**, **our** or
-        similar pronoun) (together the **Parties** and each a
-        **Party**). These Terms govern your use of the Pace Services and
-        Pace Platform.
+        Enterprise (Japan) Co., Ltd. (Company Registration
+        No.: 3010001215709) (**we**, **us**, **our** or similar pronoun)
+        (together the **Parties** and each a **Party**). These Terms
+        govern your use of the Pace Services and Pace Platform.
 
     2.  By accessing the Pace Platform, opening an Account, using the
         Pace Services or otherwise dealing with us, you are deemed to
@@ -71,31 +71,36 @@
 > **Pace Services** means the services described in the clause below
 > with the heading Pace Services.
 >
-> **Payment Method** means a debit card, credit card or other payment
-> method that is maintained in the name of the Customer Member and is
-> authorised to use, and that we accept from time to time for the
-> purposes of Pace Services.
+> **Payment Method** means debit card, credit card, convenience store
+> (**Konbini**), ATM or other payment method that is maintained in the
+> name of the Customer Member and is authorised to use, and that we
+> accept from time to time for the purposes of Pace Services.
 >
-> **Privacy Policy** means our privacy policy from time to time
-> published at
+> **Privacy Policy** means our (a) Basic Policy on Personal Information
+> Protection, (b) Agreement on Handling of Personal Information and (c)
+> Joint use of Merchant Member Information, from time to time published
+> at
 > [[https://pacenow.co/privacy-policy]{.underline}](https://pacenow.co/privacy-policy).
 >
-> **Prohibited Person** means (a) any designated person or entity under
-> the United Nations Act (Cap. 339) and its regulations, (b) any
-> designated person or entity under the Terrorism (Suppression of
-> Financing) Act (Cap. 325) (**TSOFA**); (c) any person or entity that
-> we have reasonable grounds to suspect that the assets or funds of that
-> person or entity are proceeds of drug dealing or criminal conduct as
-> defined in the Corruption, Drug Trafficking and Other Serious Crimes
-> (Confiscation of Benefits) Act (Cap. 65A) or are property related to
-> the facilitation or carrying out of any terrorism financing offence as
-> defined in the TSOFA; (d) any anonymous or fictitious entities,
-> confidential numbered accounts, shell banks or shell financial
-> institutions, bearer share companies; (e) any person or entity that
-> for the time being are designated under applicable laws, regulations,
-> notices or guidelines relating to anti-money laundering or combating
-> the financing of terrorism; or (f) any persons or entities affiliated
-> with or related to Prohibited Persons.
+> **Prohibited Person** means (a) any designated person or entity or
+> categories of persons or entities identified by the Security Council
+> of the United Nations, and U.S. Treasury Department's Office of
+> Foreign Assets Control as individuals or entities to whom sanctions
+> shall apply, (b) any designated person or entity or categories of
+> persons or entities identified by the Japan authorities as being
+> subject to sanctions, including for reasons relating to terrorist
+> activities, organised crime and money-laundering activities; (c) any
+> person or entity that we have reasonable grounds to suspect that the
+> assets or funds of that person or entity are proceeds of drug dealing,
+> corruption, organised crime or other criminal conduct or are property
+> related to the facilitation or carrying out of any terrorism financing
+> activities; (d) any anonymous or fictitious entities, confidential
+> numbered accounts, shell banks or shell financial institutions, bearer
+> share companies; (e) any person or entity that for the time being are
+> designated under applicable laws, regulations, notices or guidelines
+> relating to anti-money laundering or combating the financing of
+> terrorism; or (f) any persons or entities affiliated with or related
+> to Prohibited Persons.
 >
 > **Prohibited Transactions** means any activities, dealings or
 > transactions from time to time stated in the Schedule.
@@ -121,48 +126,42 @@
 > **Right to Receive Payment** means the right to receive the Customer
 > Member\'s payment of the price for the Pace Buy.
 >
-> **Security Breach** means any suspected or actual loss, theft, fraud,
+> **Security Breach** means any suspected or actual loss, theft, fraud
 > or unauthorized use of your Account, including any unauthorised
 > disclosure of your Account login password or information.
->
-> **Transaction Fee** means a transaction fee charged for each Pace Buy
-> as agreed between the Merchant Member and us.
 
 3.  **Pace Services**
 
 > [Sale and Purchase of the Right to Receive Payment]{.underline}
 
-1.  We provide services (**Pace Services**) that enables a Customer
-    Member to pay for Pace Buys from a Merchant Member by three
-    interest-free monthly instalments. A Customer Member shall make all
+1.  We provide services (**Pace Services**) that enable a Customer
+    Member to pay for Pace Buys from a Merchant Member by in
+    interest-free instalments. A Customer Member shall make all
     instalment payments using the Payment Method.
 
 2.  When a Customer Member makes a Pace Buy:
 
-    a.  The Merchant Member shall first ensure that the Merchant Limit
-        has not and will not exceed the Merchant Limit as a result of
-        the Pace Buy to be transacted by the Customer Member.
-
-    b.  The Merchant Member, as the sole legal and beneficial owner of
+    a.  The Merchant Member, as the sole legal and beneficial owner of
         the Right to Receive Payment, agrees to irrevocably and
         unconditionally sell and assign the Right to Receive Payment to
         us immediately after the Pace Buy is concluded between the
         Merchant Member and the Customer Member and the Customer Member
-        consents to such sale and assignment.
+        consents to such sale and assignment. A Merchant Member pays the
+        Merchant Fee for the use of Pace Services.
 
-    c.  For the avoidance of doubt, the Right to Receive Payment is
+    b.  For the avoidance of doubt, the Right to Receive Payment is
         assigned to us immediately after a Pace Buy is concluded. In
         exchange, we shall exercise commercially reasonable efforts to
-        pay the Merchant Member the price of the Pace Buy within two
-        business days, less the Merchant Fee, Transaction Fee, and any
-        amounts then owing by the Merchant Member to Pace under this
-        Agreement (including any amounts arising from a Reversal
-        transaction). Notwithstanding the foregoing sentence, we reserve
-        the right to defer the settlement date until such other time
-        that the cumulative amounts to be settled to the Merchant Member
-        exceed the sum of S\$100.
+        pay the Merchant Member the price of the Pace Buy within 10
+        business days, less the Merchant Fee and any amounts then owing
+        by the Merchant Member to Pace under this Agreement (including
+        any amounts arising from a Reversal transaction).
+        Notwithstanding the foregoing sentence, we reserve the right to
+        defer the settlement date until such other time that the
+        cumulative amounts to be settled to the Merchant Member exceed
+        the sum of JPY10,000.
 
-    d.  We have the sole discretion to accept or reject the assignment
+    c.  We have the sole discretion to accept or reject the assignment
         to Right to Receive Payment without providing any reason. In
         case of the rejection of assignment, the Pace Platform shall
         reject such transaction and a Pace Buy will not be able to be
@@ -177,7 +176,7 @@
         Platform or was otherwise transacted in breach of this
         Agreement.
 
-    e.  The Merchant Member shall authorize Pace to send a notification
+    d.  The Merchant Member shall authorize Pace to send a notification
         on behalf of the Merchant Member to the Customer Member's email
         address, as provided in the Customer Member's Registration Data.
         This notification shall serve as a notice by the Merchant Member
@@ -185,41 +184,30 @@
         is assigned to us and shall also contain instructions to the
         Customer Member regarding the method of payment to us.
 
-    f.  The Customer Member pays us, as the sole legal and beneficial
+    e.  The Customer Member pays us, as the sole legal and beneficial
         owner of the Right to Receive Payment in place of the Merchant
-        Member, the price of the Pace Buy in three monthly instalments.
-        The first instalment is due and payable upon the Pace Buy.
+        Member, the price of the Pace Buy in interest-free instalments,
+        as detailed at Clause 3.5.
 
-    g.  Except as provided in this clause, the rights and obligations of
+    f.  Except as provided in this clause, the rights and obligations of
         the Customer Member and the Merchant Member in relation to the
         sale and purchase under the Pace Buy remain unchanged.
 
-3.  A Merchant Member pays the Merchant Fee and Transaction Fee for the
-    use of Pace Services.
-
-4.  A Customer Member is not required to pay us any fees for the use of
-    Pace Services. A Merchant Member shall not charge a Customer Member
-    any separate fees, costs, or charges on Pace Buys for any purposes
-    whatsoever.
-
-5.  Generally, a Customer Member is not permitted to make Pace Buys in
+3.  Generally, a Customer Member is not permitted to make Pace Buys in
     excess of the Pace Buy Limit. The Pace Buy Limit is reduced by the
     total amount of a Customer Member\'s unpaid instalments. However, we
     may in our sole discretion permit a Customer Member to make Pace
     Buys in excess of the Pace Buy Limit provided that the amount paid
     by the Customer Member for the first instalment at the point of
     purchase is increased to the extent necessary to ensure that the
-    remaining instalments payable is within the Pace Buy Limit. For the
-    avoidance of doubt, unless excepted as provided in the foregoing
-    sentence, we will not be a party to the transaction (in any
-    capacity) in the event that the Customer Member has exceeded the
-    Pace Buy Limit.
+    remaining instalments payable is within the Pace Buy Limit, and the
+    Payment Method selected for that purchase is through a credit card
+    or debit card. For the avoidance of doubt, unless excepted as
+    provided in the foregoing sentence, we will not be a party to the
+    transaction (in any capacity) in the event that the Customer Member
+    has exceeded the Pace Buy Limit.
 
-6.  Pace Services are not loans, financing or credit facilities of any
-    kind whatsoever. We do not provide insurance of any kind. We are
-    solely a technology service provider.
-
-7.  Each Merchant Member is solely and fully liable for the sale and
+4.  Each Merchant Member is solely and fully liable for the sale and
     supply of goods and services under a Pace Buy. We are not a party to
     the sale and purchase contracts under Pace Buys. We do not own,
     create, manufacture, sell, resell, provide, control, manage, offer,
@@ -229,15 +217,156 @@
     warranties of accuracy, reliability, merchantability, fitness for a
     particular purpose and non-infringement.
 
-> [Early Payment by Customer Member]{.underline}
+> [Payment Schedule of Instalments]{.underline}
 
-8.  A Customer Member can make an early payment of any instalment(s)
-    owing to us, whether partially or in full, at any time before the
-    due date of the relevant instalment(s) (**Early Payment**). No fees
-    or charges are imposed on a Customer Member for making an Early
-    Payment.
+5.  A Customer Member will not be charged any interest to use the Pace
+    Services. We will charge each instalment to the Payment Method
+    selected by the Customer Member. The payment schedule of the
+    instalments will vary depending on the Payment Method selected by
+    the Customer Member:
 
-9.  A Customer Member will need to manually input in the Pace Platform
+> *[Konbini / ATM]{.underline}*
+
+a.  If Konbini or ATM is the selected Payment Method when making a Pace
+    Buy, we shall accrue and consolidate all the Pace Buy transactions
+    made by a Customer Member from the first to the last day of the
+    month. On the first day of the next month, the Customer Member shall
+    receive a payment invoice statement (**Consolidated** **Payment
+    Statement**) by email and/or through a notification in the Pace
+    Platform, setting out the total price of the Pace Buys made in the
+    month which shall be payable to us.
+
+b.  The Consolidated Payment Statement shall be paid to us in 2 equal
+    interest-free instalments, as illustrated in the table below:
+
++-----------+----------------------------+----------------------------+
+|           | **Konbini**                | **ATM**                    |
++===========+============================+============================+
+| **1^st^   | Due on date of receipt of  |                            |
+| Ins       | the Consolidated Payment   |                            |
+| talment** | Statement.                 |                            |
+|           |                            |                            |
+| **Due     | For example, Customer      |                            |
+| Date**    | Member receives            |                            |
+|           | Consolidated Payment       |                            |
+|           | Statement on 1 November    |                            |
+|           | for purchases made from 1  |                            |
+|           | October to 31 October. The |                            |
+|           | due date for the 1^st^     |                            |
+|           | instalment is on 1         |                            |
+|           | November.                  |                            |
++-----------+----------------------------+----------------------------+
+| **2^nd^   | Due within 1 month (less 1 |                            |
+| Ins       | day), from the date of     |                            |
+| talment** | receipt of Consolidated    |                            |
+|           | Payment Statement.         |                            |
+| **Due     |                            |                            |
+| Date**    | For example, Customer      |                            |
+|           | Member receives            |                            |
+|           | Consolidated Payment       |                            |
+|           |                            |                            |
+|           | Statement on 1 November    |                            |
+|           | for purchases made from 1  |                            |
+|           | October to 31 October.     |                            |
+|           | Customer Member paid 1^st^ |                            |
+|           | instalment by 5 November.  |                            |
+|           | The due date for the 2^nd^ |                            |
+|           | instalment is on 30        |                            |
+|           | November.                  |                            |
++-----------+----------------------------+----------------------------+
+
+> ※Customers will not be charged with Late Fee for 5 calendar days from
+> Instalment Due Date for both 1^st^ and 2^nd^ instalments.
+
+c.  If Konbini or ATM is the selected Payment Method when first making
+    the Pace Buy, a Customer Member is not permitted to switch to credit
+    card or debit card to pay for the first instalment of the
+    Consolidated Payment Statement. However, the Customer Member can
+    switch between Konbini or ATM to pay for the second instalment of
+    the Consolidated Payment Statement.
+
+> *[Credit Card / Debit Card]{.underline}*
+
+d.  If a credit card or debit card is the selected Payment Method when
+    making the Pace Buy, a Customer Member shall pay us the price of the
+    Pace Buy in 3 interest-free instalments, as illustrated in the table
+    below:
+
++-----------+----------------------------------------------------------+
+|           | **Credit Card / Debit Card**                             |
++===========+==========================================================+
+| **1^st^   | Due on date of purchase and automatically charged to     |
+| Ins       | card                                                     |
+| talment** |                                                          |
+|           |                                                          |
+| **Due     |                                                          |
+| Date**    |                                                          |
++-----------+----------------------------------------------------------+
+| **2^nd^   | Due within 1 month from date of purchase and             |
+| Ins       | automatically charged to card                            |
+| talment** |                                                          |
+|           |                                                          |
+| **Due     |                                                          |
+| Date**    |                                                          |
++-----------+----------------------------------------------------------+
+| **3^rd^   | Due within 2 months (less 1 day), from date of purchase  |
+| Ins       | and automatically charged to card                        |
+| talment** |                                                          |
+|           |                                                          |
+| **Due     |                                                          |
+| Date**    |                                                          |
++-----------+----------------------------------------------------------+
+
+e.  If a credit card or debit card is the selected Payment Method when
+    first making the Pace Buy, a Customer Member is not permitted to
+    switch to Konbini or ATM Payment Method for any subsequent
+    instalment payments.
+
+> [Handling Fee]{.underline}
+
+6.  A Customer Member shall be responsible for certain handling fees
+    which shall be imposed on each instalment payment only if the
+    Konbini or ATM mode of Payment Method is selected. The prevailing
+    handling fee is set out below:
+
++-----------------------------------+-----------------------------------+
+| **Total Payment Amount**          | **Handling Fee per Payment        |
+|                                   | Transaction (VAT included)**      |
+| **(VAT included)**                |                                   |
++===================================+===================================+
+| JPY2,800 and below                | JPY106                            |
++-----------------------------------+-----------------------------------+
+| JPY2,801 to JPY10,000             | JPY211                            |
++-----------------------------------+-----------------------------------+
+| JPY10,001 to JPY30,000            | JPY264                            |
++-----------------------------------+-----------------------------------+
+| JPY30,001 to JPY90,000            | JPY315                            |
++-----------------------------------+-----------------------------------+
+| JPY90,001 and above               | JPY368                            |
++-----------------------------------+-----------------------------------+
+
+> For clarity, no handling fee will be imposed if a Customer Member
+> selects credit card or debit card as the Mode of Payment.
+
+  -----------------------------------------------------------------------
+                          **[Credit Card / Debit Card]{.underline}**
+  ----------------------- -----------------------------------------------
+  **Handling Fee per      No Charge
+  Payment Transaction**   
+
+  -----------------------------------------------------------------------
+
+> [Early Payment by Customer Member (For Credit Card / Debit
+> Card)]{.underline}
+
+7.  If the original Payment Method selected by a Customer Member when
+    making the Pace Buy is a credit card or debit card, the Customer
+    Member can make an early payment of any instalment(s) owing to us,
+    whether partially or in full, at any time before the due date of the
+    relevant instalment(s) (**Early Payment**). No fees or charges are
+    imposed on a Customer Member for making an Early Payment.
+
+8.  A Customer Member will need to manually input in the Pace Platform
     the amount of Early Payment that is desired to be made for the
     relevant Pace Buy transaction. We will apply the entire Early
     Payment amount made against the upcoming instalment which will
@@ -248,21 +377,17 @@
 
 > [Late Fee]{.underline}
 
-10. A Customer Member shall pay all instalments promptly before the due
-    date. We do not impose interest if you fail to pay all instalments
-    on time. However, if the payment is not received by the due date, an
-    initial late payment of S\$10 will be levied, and a further S\$1 per
-    day if the payment remains unpaid after the due date. For each order
-    below S\$40, a maximum of one S\$10 late fee may be applied per
-    instalment payment. For each order of S\$40 or above, the late fees
-    of each instalment payment that may be applied are capped at 25% of
-    the original order value or S\$60, whichever is less. Subject to
-    Clause 1.3 above, we reserve the right to alter the late fees in our
-    sole discretion.
+9.  A Customer Member shall pay all instalments promptly before the due
+    date or grace period (if any). We do not impose interest if you fail
+    to pay any instalments on time. However, if the payment for an
+    instalment is not received by the due date or grace period (if any),
+    the Customer Member shall also be responsible for paying a late fee
+    in an amount equalling to 11% per annum of the outstanding amount
+    which shall accrue on a daily basis.
 
 > [Reversal Transaction]{.underline}
 
-11. Each Merchant Member is solely and fully liable for handling
+10. Each Merchant Member is solely and fully liable for handling
     disputes, refunds, returns and all other aspects of the sale and
     supply of goods and services in connection with a Pace Buy. For the
     avoidance of doubt, we will not be responsible to any Customer
@@ -270,11 +395,11 @@
     services by the Merchant Member. We will refer all Customer Members
     to the relevant Merchant Member for these purposes.
 
-12. In the event that we receive a Reversal Instruction from a Merchant
+11. In the event that we receive a Reversal Instruction from a Merchant
     Member in respect of any order by a Customer Member, we shall
     process the Reversal transaction, as follows:
 
-    a.  Within two business days of sending to Pace a Reversal
+    a.  Within 2 business days of sending to Pace a Reversal
         Instruction, a Merchant Member shall refund Pace by paying the
         relevant amount by telegraphic bank transfer to Pace's nominated
         bank account;
@@ -293,21 +418,27 @@
 
         i.  We shall first set off the amount to be refunded against the
             value of all instalments that have yet to fall due for
-            payment; and
+            payment.
 
         ii. Thereafter, if there remains any balance amount to be
             refunded, the sum shall be refunded to the Payment Method,
             subject to any terms and policies which may be imposed by
             the debit or credit card providers, payment processors and
             financial institutions providing or related to the Payment
-            Method. Depending on the policies instituted by the Customer
-            Member's debit or credit card providers, the Customer Member
-            can expect to receive the refund within around seven to
-            fourteen business days from the time that Pace activates the
-            refund; and
+            Method.
+
+        iii. Depending on the policies instituted by the Customer
+             Member's debit or credit card providers, the Customer
+             Member can expect to receive the refund within around 7 to
+             14 business days from the time that Pace activates the
+             refund. In the event that a refund to the Customer Member
+             is required to be made to the Customer Member's bank
+             account, we shall exercise commercially reasonable efforts
+             to refund the amount within 3 business days from the date
+             the Customer Member furnishes the bank account information.
 
     d.  In the event that a Merchant Member fails to comply with its
-        obligation under this Clause 3.12 or Pace is unable to deduct
+        obligation under this Clause 3.11 or Pace is unable to deduct
         the amounts arising from a Reversal transaction from the amounts
         payable by Pace to a Merchant Member, we reserve the right to
         set off all such amounts owing from any other payments to be
@@ -315,22 +446,38 @@
 
 > [Merchant Limit]{.underline}
 
-13. A Merchant Member shall be subject to the Merchant Limit which shall
+12. A Merchant Member shall be subject to the Merchant Limit which shall
     be determined by us from time to time in our sole discretion. For
     clarity, we reserve the right to modify a Merchant Member's Merchant
     Limit at any time by written notification, and the revised Merchant
     Limit shall take effect immediately upon service of such notice.
 
-14. We reserve the right (but not the obligation) to suspend any further
+13. We reserve the right (but not the obligation) to suspend any further
     Pace Buys from being transacted through the Merchant Member's
     Account if the Merchant Limit is or will be exceeded.
 
+[Merchant Portal]{.underline}
+
+14. We shall provide a Merchant Member with access to a merchant portal
+    which shall provide information relating to all Pace Buy
+    transactions conducted by the Merchant Member through the Pace
+    Platform, including details on payments to be settled by Pace to the
+    Merchant Member pursuant to Clause 3.2 above (**Pace Transaction
+    Records**).
+
+15. It shall be the Merchant Member's sole responsibility to reconcile
+    the Pace Transaction Records against the Merchant Member's own
+    records and notify us immediately upon the discovery of any
+    discrepancies or disputes, failing which, such Pace Transaction
+    Records shall be deemed to be final and conclusive within 30 days of
+    the occurrence of the relevant Pace Buy transaction.
+
 > [Tax]{.underline}
 
-15. If the sale and purchase of the Right to Receive Payment is subject
-    to any goods and services tax (**GST**) imposed under law, the
-    Merchant Member agrees that the Merchant Fee and Transaction Fee
-    shall be subject to the imposition of GST.
+16. If the sale and purchase of the Right to Receive Payment is subject
+    to any sales, consumption or other taxes (**Tax**) imposed under
+    law, the Merchant Member agrees that the Merchant Fee shall be
+    subject to the imposition of Tax.
 
 ```{=html}
 <!-- -->
@@ -339,7 +486,7 @@
 
     1.  If a Customer Member, you warrant that you:
 
-        a.  are a natural person who is 18 years or older;
+        a.  are a natural person who is 20 years or older;
 
         b.  are capable of entering legally binding contracts;
 
@@ -351,24 +498,28 @@
 
         e.  are the authorised user of the Payment Method;
 
-        f.  have created an Account by truthfully providing all
+        f.  in the event a refund is required to be made from us to you
+            by bank transfer, you are the legal and beneficial owner of
+            the relevant bank account which you provide to us;
+
+        g.  have created an Account by truthfully providing all
             Registration Data;
 
-        g.  before making a Pace Buy transaction, you have read or are
+        h.  before making a Pace Buy transaction, you have read or are
             made expressly aware of all terms and conditions relating to
             your purchase of the goods and/or services from the
             Merchant, including the Merchant's cancellation and refund
             policies (if any), the total purchase price and all other
             relevant information;
 
-        h.  do not conduct any Prohibited Transactions; and
+        i.  do not conduct any Prohibited Transactions; and
 
-        i.  are not a Prohibited Person.
+        j.  are not a Prohibited Person.
 
     2.  If a Merchant Member, you warrant that you:
 
         a.  are a duly registered and validly existing business or legal
-            entity under Singapore laws;
+            entity under Japan laws;
 
         b.  carry on a reputable and legal business, as a going concern
             and not the subject of any insolvency proceedings;
@@ -401,11 +552,29 @@
 
         k.  are not a Prohibited Person;
 
-        l.  do not deal with Prohibited Transactions; and
+        l.  do not deal with Prohibited Transactions;
 
-        m.  immediately inform us if there are any changes to your (i)
-            Registration Data, (ii) ownership, (iii) registered and
-            trading addresses, (iv) financial status including any
+        m.  have not been subject to any sanctions or penalties under
+            the Specified Commercial Transactions Act (Act No. 57 of
+            1976 of Japan) (**SCTA**) in the 5 years preceding your
+            utilisation of the Pace Services;
+
+        n.  are not (or have been) the subject of a civil lawsuit for
+            unfair solicitation in violation of the Consumer Contract
+            Act (Act No. 61 of 2000 of Japan) in the 5 years preceding
+            your utilisation of the Pace Services;
+
+        o.  have put in place systems necessary to prevent any of the
+            acts listed in each item of Article 35-3-7 of the Instalment
+            Sales Act (Act No. 159 of 1961 of Japan);
+
+        p.  have put in place systems necessary to handle customer
+            complaints in a reasonably appropriate and timely manner;
+            and
+
+        q.  will immediately inform us if there are any changes to
+            your (i) Registration Data, (ii) ownership, (iii) registered
+            and trading addresses, (iv) financial status including any
             potential insolvency proceedings, (v) material change in
             your business activities, and (vi) any information
             previously disclosed to us during our verification and due
@@ -432,11 +601,11 @@
         identities and backgrounds, (b) check you against any legal
         sources, databases or lists relating to prohibited countries,
         territories, entities and individuals, including the relevant
-        lists maintained by the United Nations and the Monetary
-        Authority of Singapore; (c) obtain individual background and due
-        diligence reports on you from applicable service providers,
-        and (d) check you against any legal sources, databases or lists
-        relating to criminal convictions, tax offences or sex offenders.
+        lists maintained by the United Nations and the Japan
+        authorities; (c) obtain individual background and due diligence
+        reports on you from applicable service providers, and (d) check
+        you against any legal sources, databases or lists relating to
+        criminal convictions, tax offences or sex offenders.
 
     3.  Without prejudice to any other rights we may have under this
         Agreement, we reserve the right to suspend or terminate your
@@ -633,9 +802,9 @@
         Payment from the Customer Member at the purchase price of the
         relevant Pace Buy transaction, *[less]{.underline}* any partial
         payments for the Pace Buy which we had received from the
-        Customer Member, the Merchant Fee, and the Transaction Fee
-        (**Limited Buyback Right**). Notwithstanding the foregoing, we
-        shall only exercise the Limited Buyback Right if:
+        Customer Member and the Merchant Fee (**Limited Buyback
+        Right**). Notwithstanding the foregoing, we shall only exercise
+        the Limited Buyback Right if:
 
         a.  any warranties made by the Merchant Member under this
             Agreement is or proves to be incorrect or misleading when
@@ -971,15 +1140,68 @@
 16. **Dispute Resolution**
 
     1.  All disputes arising out of or in connection with these Terms
-        shall be submitted to the exclusive jurisdiction of the courts
-        of Singapore.
+        shall be submitted to the exclusive jurisdiction of the Tokyo
+        District Court, Japan.
 
-    2.  These Terms are governed by Singapore laws, without regard to
+    2.  These Terms are governed by the laws of Japan, without regard to
         choice of law principles. The application of the United Nations
         Convention on Contracts for the International Sale of Goods is
         expressly excluded.
 
-17. **Miscellaneous**
+17. **Exclusion of Anti-Social Groups**
+
+    1.  You represent and warrant that you (and in the case of a
+        Merchant Member, this includes any director or employee), are
+        not or will not be associated with:
+
+        a.  any organised crime group;
+
+        b.  a member of an organised crime group or a person who used to
+            be a member of an organised crime group but has only ceased
+            to be a member of an organised crime group less than five
+            years before;
+
+        c.  a quasi-member of an organised crime group;
+
+        d.  a related or associated company of an organised crime group;
+
+        e.  a corporate racketeer;
+
+        f.  a politically-branded racketeering organisation;
+
+        g.  a special intelligence organised crime group;
+
+        h.  a cooperative entity of any of the foregoing; and
+
+        i.  any other person or entity similar to any of the foregoing.
+
+    2.  You represent and warrant that you (and in the case of a
+        Merchant Member, this includes any director or employee), have
+        never engaged and will not engage in any of the following acts,
+        whether directly or indirectly through any third parties:
+
+        a.  violent demands through the use of criminal force and/or
+            weapons;
+
+        b.  unreasonable demands and conduct without any legally
+            defensible causes;
+
+        c.  threatening or committing violent behaviour relating to your
+            business transactions;
+
+        d.  Defaming, spreading rumours or employing fraudulent means or
+            force to damage Pace's credibility or obstruct Pace's
+            business; and
+
+        e.  Any other acts or conduct similar to the foregoing.
+
+    3.  Without prejudice to any other rights we may have under this
+        Agreement, we reserve the right to suspend or terminate your
+        Account upon immediate notice if we determine in our sole
+        discretion that you are in breach or are likely to breach any of
+        the warranties as set out in this Clause 18.
+
+18. **Miscellaneous**
 
     1.  These Terms are effective until your Account is terminated in
         accordance with these Terms. We may terminate these Terms
@@ -1000,9 +1222,7 @@
         further exercise of that right.
 
     5.  A person who is not subject to these Terms shall have no right
-        under the Contracts (Rights of Third Parties) Act (Cap. 53B of
-        Singapore) to enforce or enjoy the benefit of any terms under
-        these Terms.
+        to enforce or enjoy the benefit of any terms under these Terms.
 
     6.  Nothing in these Terms shall be deemed to constitute or imply
         any partnership, joint venture, agency, fiduciary relationship
@@ -1017,13 +1237,6 @@
         promptly notify the other Party in writing when such
         circumstances cause a delay or failure in performance and when
         they cease to do so.
-
-    8.  As at the date of publication of these Terms, we have been
-        advised that we are likely to qualify for an exemption by the
-        Monetary Authority of Singapore (MAS) from holding a Standard
-        Payment Institution License for account issuance and merchant
-        acquisition (MAS Licenses). Nevertheless, we have applied for
-        the MAS Licenses in anticipation of our future growth.
 
 **[Schedule]{.underline}**
 
@@ -1095,9 +1308,10 @@ Terrorism**
 > 1\. The purpose of this policy is to establish the general framework
 > against money laundering (**ML**) and financing of terrorism (**FT**).
 >
-> 2\. Pace Enterprise Pte Ltd (UEN: 202020243W) (**Company**) puts
-> reasonable measures in place to control and to limit ML and FT risk,
-> including dedicating the appropriate means.
+> 2\. Pace Enterprise (Japan) Co., Ltd. Pte Ltd (Company Registration
+> No.: 3010001215709) (**Company**) puts reasonable measures in place to
+> control and to limit ML and FT risk, including dedicating the
+> appropriate means.
 >
 > 3\. The Company is committed to high standards of anti-money
 > laundering and countering the financing of terrorism (AML/CFT)
@@ -1132,7 +1346,7 @@ Terrorism**
 > identification, account opening, and transactions for a minimum of
 > five years. Records relating to staff training, internal compliance
 > monitoring, and suspicious activity reporting will also be retained
-> for a minimum of five years;
+> for a minimum of seven years;
 >
 > \(e\) Monitor ongoing user activity to keep records up to date and
 > identify any activity that may involve money laundering. This includes
@@ -1153,4 +1367,4 @@ Terrorism**
 > government or law enforcement agencies during their investigations
 > into ML or FT.
 >
-> *[Published on 25 March 2021]{.underline}*
+> *[Published on 31 December 2021]{.underline}*
