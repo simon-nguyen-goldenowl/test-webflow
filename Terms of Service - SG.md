@@ -13,45 +13,45 @@
 2. **Definitions**
     In these Terms,
 
-    **Account** means a valid password-protected user account approved for the Pace Services and Pace Platform.
+    1. **Account** means a valid password-protected user account approved for the Pace Services and Pace Platform.
 
-    **Customer** means any person, not being a Prohibited Person, purchasing goods or services from a Merchant.
+    2. **Customer** means any person, not being a Prohibited Person, purchasing goods or services from a Merchant.
 
-    **Member** means a Customer or Merchant who is eligible to use the Pace Services and Pace Platform and has an Account.
+    3. **Member** means a Customer or Merchant who is eligible to use the Pace Services and Pace Platform and has an Account.
 
-    **Merchant** means any person, not being a Prohibited Person or an entity identified in the Prohibited Transactions, selling and supplying goods or services that are not Prohibited Transactions.
+    4. **Merchant** means any person, not being a Prohibited Person or an entity identified in the Prohibited Transactions, selling and supplying goods or services that are not Prohibited Transactions.
 
-    **Merchant Bank Account** means a bank account that a Merchant Member legally and beneficially owns and that we accept from time to time for the purposes of Pace Services.
+    5. **Merchant Bank Account** means a bank account that a Merchant Member legally and beneficially owns and that we accept from time to time for the purposes of Pace Services.
 
-    **Merchant Fee** means a percentage of the price of the Merchant Member's goods or services that are subject to a Pace Buy, as agreed between the Merchant Member and us.
+    6. **Merchant Fee** means a percentage of the price of the Merchant Member's goods or services that are subject to a Pace Buy, as agreed between the Merchant Member and us.
 
-    **Merchant Limit** means the aggregate amount of Pace Buy receivables which will become owing by the Customer Member to the Merchant Member which Pace is willing to purchase from the Merchant Member and all outstanding receivables arising from previously transacted Pace Buys due from the Customer Member to Pace which remains unpaid.
+    7. **Merchant Limit** means the aggregate amount of Pace Buy receivables which will become owing by the Customer Member to the Merchant Member which Pace is willing to purchase from the Merchant Member and all outstanding receivables arising from previously transacted Pace Buys due from the Customer Member to Pace which remains unpaid.
 
-    **Pace Buy** means a Customer Member's purchase of goods and services from a Merchant Member, using the Pace Services.
+    8. **Pace Buy** means a Customer Member's purchase of goods and services from a Merchant Member, using the Pace Services.
 
-    **Pace Buy Limit** means any amount as we may determine from time to time in our sole discretion.
+    9. **Pace Buy Limit** means any amount as we may determine from time to time in our sole discretion.
 
-    **Pace Platform** means our website, its subdomains or associated websites, our mobile, tablet and other devices, our application program interfaces, software and systems that are used to provide Pace Services.
+    10. **Pace Platform** means our website, its subdomains or associated websites, our mobile, tablet and other devices, our application program interfaces, software and systems that are used to provide Pace Services.
 
-    **Pace Services** means the services described in the clause below with the heading Pace Services.
+    11. **Pace Services** means the services described in the clause below with the heading Pace Services.
 
-    **Payment Method** means a debit card, credit card or other payment method that is maintained in the name of the Customer Member and is authorised to use, and that we accept from time to time for the purposes of Pace Services.
+    12. **Payment Method** means a debit card, credit card or other payment method that is maintained in the name of the Customer Member and is authorised to use, and that we accept from time to time for the purposes of Pace Services.
 
-    **Privacy Policy** means our privacy policy from time to time published at [https://pacenow.co/privacy-policy](https://pacenow.co/privacy-policy/).
+    13. **Privacy Policy** means our privacy policy from time to time published at [https://pacenow.co/privacy-policy](https://pacenow.co/privacy-policy/).
 
-    **Prohibited Person** means (a) any designated person or entity under the United Nations Act (Cap. 339) and its regulations, (b) any designated person or entity under the Terrorism (Suppression of Financing) Act (Cap. 325) (TSOFA); (c) any person or entity that we have reasonable grounds to suspect that the assets or funds of that person or entity are proceeds of drug dealing or criminal conduct as defined in the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) or are property related to the facilitation or carrying out of any terrorism financing offence as defined in the TSOFA; (d) any anonymous or fictitious entities, confidential numbered accounts, shell banks or shell financial institutions, bearer share companies; (e) any person or entity that for the time being are designated under applicable laws, regulations, notices or guidelines relating to anti-money laundering or combating the financing of terrorism; or (f) any persons or entities affiliated with or related to Prohibited Persons.
+    14. **Prohibited Person** means (a) any designated person or entity under the United Nations Act (Cap. 339) and its regulations, (b) any designated person or entity under the Terrorism (Suppression of Financing) Act (Cap. 325) (TSOFA); (c) any person or entity that we have reasonable grounds to suspect that the assets or funds of that person or entity are proceeds of drug dealing or criminal conduct as defined in the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) or are property related to the facilitation or carrying out of any terrorism financing offence as defined in the TSOFA; (d) any anonymous or fictitious entities, confidential numbered accounts, shell banks or shell financial institutions, bearer share companies; (e) any person or entity that for the time being are designated under applicable laws, regulations, notices or guidelines relating to anti-money laundering or combating the financing of terrorism; or (f) any persons or entities affiliated with or related to Prohibited Persons.
 
-    **Prohibited Transactions** means any activities, dealings or transactions from time to time stated in the Schedule.
+    15. **Prohibited Transactions** means any activities, dealings or transactions from time to time stated in the Schedule.
 
-    **Registration Data** means the information (including supporting evidence) that we may from time to time reasonably require from you in relation to your Account or for the purposes of providing the Pace Services or Pace Platform.
+    16. **Registration Data** means the information (including supporting evidence) that we may from time to time reasonably require from you in relation to your Account or for the purposes of providing the Pace Services or Pace Platform.
 
-    **Reversal** means the reversal of any transaction between a Customer Member and Merchant Member in respect of a purchase which results in either a full or partial refund of the order value to the Customer Member. Decisions on whether a full or partial refund may be made for any order shall be solely resolved, determined and/or agreed by the relevant Customer Member and Merchant Member without any involvement or responsibility by Pace.
+    17. **Reversal** means the reversal of any transaction between a Customer Member and Merchant Member in respect of a purchase which results in either a full or partial refund of the order value to the Customer Member. Decisions on whether a full or partial refund may be made for any order shall be solely resolved, determined and/or agreed by the relevant Customer Member and Merchant Member without any involvement or responsibility by Pace.
 
-    **Reversal Instruction** means an irrevocable instruction made by a Merchant Member to Pace, either by email or through the Pace Platform, to process a full or partial refund of a Customer Member’s order value.
+    18. **Reversal Instruction** means an irrevocable instruction made by a Merchant Member to Pace, either by email or through the Pace Platform, to process a full or partial refund of a Customer Member’s order value.
 
-    **Right to Receive Payment** means the right to receive the Customer Member's payment of the price for the Pace Buy.
+    20. **Right to Receive Payment** means the right to receive the Customer Member's payment of the price for the Pace Buy.
 
-    **Security Breach** means any suspected or actual loss, theft, fraud or unauthorized use of your Account, including any unauthorised disclosure of your Account login password or information.
+    21. **Security Breach** means any suspected or actual loss, theft, fraud or unauthorized use of your Account, including any unauthorised disclosure of your Account login password or information.
 
 3. **Pace Services**
 
