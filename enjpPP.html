@@ -9,6 +9,14 @@
     ol {
         list-style: none;
         margin-left: 3vw;
+        counter-reset: item 0;
+        padding-left: 0px;
+    }
+    li:before {
+        display: inline-block;
+        counter-increment: item 1;
+        width: 3vw;
+        margin-left: -3vw;
     }
 
     li p {
@@ -19,95 +27,56 @@
         margin-top: 5vw;
     }
 
-    .none-prefix-list {
-        counter-reset: item 0;
-        padding-left: 0px;
-    }
-
     .none-prefix-list>li::before {
-        display: inline-block;
         content: "" counter(item, none) " ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
-    }
-
-    .lower-alpha-list {
-        counter-reset: item 0;
-        padding-left: 0px;
     }
 
     .lower-alpha-list>li::before {
-        display: inline-block;
         content: "(" counter(item, lower-alpha) ") ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
-    }
-
-    .number-list {
-        counter-reset: item 0;
-        padding-left: 0px;
     }
 
     .number-list>li::before {
-        display: inline-block;
         content: "" counter(item) ". ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
-    }
-
-    .duqrsn {
-        counter-reset: item 0;
-        padding-left: 0px;
     }
 
     .duqrsn>li::before {
-        display: inline-block;
         content: "" counter(item, none) " ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
-    }
-
-    .number-bracket-list {
-        counter-reset: item 0;
-        padding-left: 0px;
     }
 
     .number-bracket-list>li::before {
-        display: inline-block;
         content: "(" counter(item) ") ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
-    }
-
-    .lower-alpha-bracket-list {
-        counter-reset: item 0;
-        padding-left: 0px;
     }
 
     .lower-alpha-bracket-list>li::before {
-        display: inline-block;
         content: "(" counter(item, lower-alpha) ") ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
-    }
-
-    .lower-roman-bracket-list {
-        counter-reset: item 0;
-        padding-left: 0px;
     }
 
     .lower-roman-bracket-list>li::before {
-        display: inline-block;
         content: "(" counter(item, lower-roman) ") ";
-        counter-increment: item 1;
-        width: 3vw;
-        margin-left: -3vw;
+    }
+
+    @media screen and (max-width: 767px) {
+        .document-block-description {
+            margin-top: 5vw;
+            margin-bottom: 5vw;
+        }
+
+        section {
+            margin-bottom: 5vw;
+        }
+
+        ol {
+            margin-left: 7vw;
+        }
+
+        li:before {
+            width: 7vw;
+            margin-left: -7vw;
+        }
+
+        .main-block {
+            margin-top: 10vw;
+        }
     }
 </style>
 <div class="main-block">
