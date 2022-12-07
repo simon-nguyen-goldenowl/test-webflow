@@ -1,0 +1,691 @@
+<style>
+    .document-block-description {
+        margin-top: 1.5vw;
+        margin-bottom: 1.5vw;
+    }
+
+    section {
+        margin-bottom: 1.5vw;
+    }
+
+    ol {
+        list-style: none;
+        margin-left: 3vw;
+        counter-reset: item 0;
+        padding-left: 0px;
+    }
+
+    li:before {
+        display: inline-block;
+        counter-increment: item 1;
+        width: 3vw;
+        margin-left: -3vw;
+    }
+
+    .bold-li {
+        font-weight: 700;
+    }
+
+    li p {
+        display: inline;
+    }
+
+    .main-block {
+        margin-top: 5vw;
+    }
+
+
+    .hOWTjC>li::before {
+        content: "1.";
+    }
+
+    .kWHjVN>li::before {
+        content: "2.";
+    }
+
+    .jgOczo>li::before {
+        content: "3.";
+    }
+
+    .jXpTSf>li::before {
+        content: "4.";
+    }
+
+    .huooom>li::before {
+        content: "5.";
+    }
+
+    .kBYFax>li::before {
+        content: "6.";
+
+    }
+
+    .iMfxDY>li::before {
+        content: "7.";
+    }
+
+    .leFYuz>li::before {
+        content: "8.";
+    }
+
+    .iBEsQG>li::before {
+        content: "9.";
+    }
+
+    .dWEXWG>li::before {
+        content: "10.";
+
+    }
+
+    .eESDEP>li::before {
+        content: "11.";
+
+    }
+
+    .jIbvus>li::before {
+        content: "12.";
+    }
+
+    .jovtjp>li::before {
+        content: "13.";
+    }
+
+    .gsSJWe>li::before {
+        content: "14.";
+    }
+
+    .hbgpEn>li::before {
+        content: "15.";
+    }
+
+    .OTxUU>li::before {
+        content: "16.";
+    }
+
+    .vnvJR>li::before {
+        content: "17.";
+    }
+
+    .krfftm>li::before {
+        content: "18.";
+    }
+
+    .kZsLbv>li::before {
+        content: "19.";
+    }
+
+    .gMSKoD>li::before {
+        content: "1." counter(item) ". ";
+    }
+
+    .hcYopk>li::before {
+        content: "2." counter(item) ". ";
+    }
+
+    .clOVzZ>li::before,
+    .gWzduV>li::before {
+        content: "3." counter(item) ". ";
+    }
+
+    .wXvHS>li::before {
+        content: "4." counter(item) ". ";
+    }
+
+    .gVjMrD>li::before {
+        content: "5." counter(item) ". ";
+
+    }
+
+    .hlpqsk>li::before {
+        content: "6." counter(item) ". ";
+    }
+
+    .cufXCZ>li::before {
+        content: "7." counter(item) ". ";
+    }
+
+    .fIibFG>li::before {
+        content: "8." counter(item) ". ";
+    }
+
+    .QYIQv>li::before {
+        content: "9." counter(item) ". ";
+    }
+
+    .bjoXtz>li::before {
+        content: "10." counter(item) ". ";
+
+    }
+
+    .ffnPXG>li::before {
+        content: "11." counter(item) ". ";
+    }
+
+    .ipfVNk>li::before {
+        content: "13." counter(item) ". ";
+    }
+
+    .lgqvnn>li::before {
+        content: "14." counter(item) ". ";
+    }
+
+    .dMTEsy>li::before {
+        content: "15." counter(item) ". ";
+
+    }
+
+    .cTjPAR>li::before {
+        content: "16." counter(item) ". ";
+
+    }
+
+    .gWLKic>li::before {
+        content: "17." counter(item) ". ";
+    }
+
+    .dBuedX>li::before {
+        content: "18." counter(item) ". ";
+    }
+
+    .hxsWIe>li::before {
+        content: "19." counter(item) ". ";
+
+    }
+
+    .uyPNU>li::before {
+        content: "" counter(item) ". ";
+    }
+
+    .cMceue>li::before {
+        content: "(" counter(item, lower-alpha) ") ";
+    }
+
+    .gWzduV,
+    .WqHYu,
+    .jXpTSf .huooom,
+    .kBYFax {
+        counter-reset: unset;
+    }
+
+    .definitions-section>p {
+        margin-top: 1.5vw;
+        margin-bottom: 1.5vw;
+    }
+
+    .WqHYu>li::before {
+        content: "(" counter(item, lower-alpha) ") ";
+    }
+
+    .bMJRFJ>li::before {
+        content: "(" counter(item, lower-roman) ") ";
+    }
+
+
+    table {
+        width: 100%;
+        margin: 1.5vw 0;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        border: 1px solid #262324;
+        padding: 1vw;
+        text-align: center;
+    }
+
+    @media screen and (max-width: 767px) {
+        .document-block-description {
+            margin-top: 5vw;
+            margin-bottom: 5vw;
+        }
+
+        section {
+            margin-bottom: 5vw;
+        }
+
+        ol {
+            margin-left: 7vw;
+        }
+
+        li:before {
+            width: 7vw;
+            margin-left: -7vw;
+        }
+
+        .main-block {
+            margin-top: 10vw;
+        }
+
+        .definitions-section>p {
+            margin-top: 5vw;
+            margin-bottom: 5vw;
+        }
+
+        table {
+            margin: 5vw 0;
+        }
+
+        th,
+        td {
+            padding: 5vw;
+        }
+    }
+</style>
+<div class="main-block">
+    <div class="document-block">
+        <h1 class="document-block-title"><u>Pace Privacy Policy</u></h1>
+        <div class="DocumentContent__Description-sc-3bh8oi-1 cKRyQQ"></div>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 hOWTjC">
+                <li>
+                    <p><b>Preliminary Provisions</b></p>
+                </li>
+            </ol>
+            <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 gMSKoD">
+                <li>
+                    <p>Pace Enterprise (Taiwan) Pte Ltd, Taiwan Branch, its subsidiaries and affiliates (<b>we</b>,
+                        <b>us</b> or <b>our</b> or similar pronoun) recognise the importance of the personal data you
+                        have entrusted to us and commits to properly manage, protect and process your personal data.</p>
+                </li>
+                <li>
+                    <p>This privacy policy (<b>policy</b>) sets out the personal data we collect or process, the
+                        purposes they are used for, and how we handle, collect, use, disclose and process personal data.
+                        The policy applies to all our Customer Members, Merchant Members or any other individuals
+                        (<b>you</b>, <b>your</b> or similar pronoun) accessing our website, Pace Platform and/or Pace
+                        Services.</p>
+                </li>
+                <li>
+                    <p>By providing your personal data to us, you agree that you have fully read, understood and
+                        accepted this policy, and consent to the collection, use, processing and disclosure of your
+                        personal data as described in this policy. If you provide the personal data of any other third
+                        party to us, you warrant that the third party has fully read, understood and accepted this
+                        policy, and consented to your disclosure of that third-party's personal data for our collection,
+                        use, processing and disclosure as described in this policy.</p>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 kWHjVN">
+                <li>
+                    <p><b>Definitions</b></p>
+                </li>
+            </ol>
+            <p>In these Terms,</p>
+            <p style="overflow-x: scroll;"><b>Account</b> means a valid password-protected user account approved for the
+                Pace Services and Pace Platform.</p>
+            <p style="overflow-x: scroll;"><b>Customer</b> means any person, not being a Prohibited Person, purchasing
+                goods or services from a Merchant.</p>
+            <p style="overflow-x: scroll;"><b>Member</b> means a Customer or Merchant who is eligible to use the Pace
+                Services and Pace Platform and has an Account.</p>
+            <p style="overflow-x: scroll;"><b>Merchant</b> means any person, not being a Prohibited Person or an entity
+                identified in the Prohibited Transactions, selling and supplying goods or services that are not
+                Prohibited Transactions.</p>
+            <p style="overflow-x: scroll;"><b>Pace Platform</b> means our website, its subdomains or associated
+                websites, our mobile, tablet and other devices, our application program interfaces, software and systems
+                that are used to provide Pace Services.</p>
+            <p style="overflow-x: scroll;"><b>Pace Services</b> means the services described in the clause below with
+                the heading Pace Services.</p>
+            <p style="overflow-x: scroll;"><b>Territory</b> means the country in which you are present when the Account
+                was created or the country in which you are present while using the Pace Services and Pace Platform.</p>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 jgOczo">
+                <li>
+                    <p><b>Types of Data</b></p>
+                </li>
+            </ol>
+            <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 clOVzZ">
+                <li>
+                    <p>We collect your personal data when you use the Pace Platform, Pace Services or our website.
+                        Personal data that we collect includes any information which can be used to identify you or from
+                        which you are identifiable, including but not limited to your:</p>
+                    <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 cMceue">
+                        <li>
+                            <p>government-issued identification number and information, including name, passport number,
+                                date of birth, marital status, gender and photographs, video or audio recordings of your
+                                personal attributes;</p>
+                        </li>
+                        <li>
+                            <p>contact information, including residential or postal addresses, email addresses,
+                                telephone, mobile phone and fax numbers;</p>
+                        </li>
+                        <li>
+                            <p>employment information, including organisation name, organisation type, industry sector,
+                                job function, designation, business telephone and fax numbers and business email
+                                addresses;</p>
+                        </li>
+                        <li>
+                            <p>billing and payment information, including name of the credit or debit cardholder, credit
+                                or debit card number, security code and expiry date;</p>
+                        </li>
+                        <li>
+                            <p>credit, income and financial information and status; and</p>
+                        </li>
+                        <li>
+                            <p>social media handles or account ID.</p>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>We collect your personal data We also receive personal data and information about you from third
+                        parties including:</p>
+                    <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 cMceue">
+                        <li>
+                            <p>We collect your personal data We also receive personal data and information about you
+                                from third parties including:</p>
+                        </li>
+                        <li>
+                            <p>if you use any websites or social media platforms operated by third parties (including
+                                Facebook, Instagram and Twitter);</p>
+                        </li>
+                        <li>
+                            <p>you have chosen (where available) to link your profile on those websites or social media
+                                platforms to Pace Services or the Pace Platform;</p>
+                        </li>
+                        <li>
+                            <p>our business partners, including payment providers, KYC verification providers; marketing
+                                service providers; and</p>
+                        </li>
+                        <li>
+                            <p>credit bureaus and other credit agencies.</p>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>We also collect personal data from you in any other cases whenever you voluntarily provide them
+                        to us, for instance (i) when you participate in contents or events organized directly or
+                        indirectly by us, (ii) interact with our social media pages, (iii) fill up any customer /
+                        merchant survey forms.</p>
+                </li>
+                <li>
+                    <p>If any personal data of a minor is disclosed to us, the parent or legal guardian of the minor
+                        hereby consents to the collection, processing and disclosure of the minor’s personal data and
+                        accepts to be bound by the policy.</p>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 jXpTSf">
+                <li>
+                    <p><b>Cookies</b></p>
+                </li>
+            </ol>
+            <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 wXvHS">
+                <li>
+                    <p>We use cookies to identify you for the purposes of Pace Services and the Pace Platform. For
+                        better user experience, we use log-in cookies to remember you when you have logged in. We use
+                        session cookies to track your movements from page to page and in order to store your selected
+                        inputs so you are not constantly asked for the same information.</p>
+                </li>
+                <li>
+                    <p>You can block or deactivate cookies in your browser settings. We have no control over the cookies
+                        used by third parties. For further information on types of cookies and how they work, visit <a
+                            href="https://www.allaboutcookies.org/" target="_blank"
+                            rel="noreferrer">www.allaboutcookies.org</a>.</p>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 huooom">
+                <li>
+                    <p><b>Purposes</b></p>
+                </li>
+            </ol>
+            <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 gVjMrD">
+                <li>
+                    <p>We collect, use, disclose and process your personal data for any of the following purposes
+                        (<b>Purposes</b>):</p>
+                    <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 cMceue">
+                        <li>
+                            <p>To consider and process your Account application and to create your Account;</p>
+                        </li>
+                        <li>
+                            <p>To facilitate, process, deal with or administer your Account;</p>
+                        </li>
+                        <li>
+                            <p>To deliver or improve the Pace Services and Pace Platform;</p>
+                        </li>
+                        <li>
+                            <p>To deal with, process or administer your use of the Pace Services and Pace Platform;</p>
+                        </li>
+                        <li>
+                            <p>For identification and verification purposes in connection with the Pace Services and
+                                Pace Platform;</p>
+                        </li>
+                        <li>
+                            <p>To carry out, respond to or deal with your instructions, enquiry or feedback, including
+                                contacting you regarding these instructions, enquiries and feedback;</p>
+                        </li>
+                        <li>
+                            <p>To conduct research, analysis and product development (including data analytics, surveys,
+                                focus groups and profiling) to improve our services and facilities for your benefit, or
+                                to improve our marketing programmes or events;</p>
+                        </li>
+                        <li>
+                            <p>To deal with, process, administer or carry out marketing campaigns that you have
+                                consented to participate in, including to send you news, information, materials and
+                                updates about events, marketing campaigns, products and services. We may communicate
+                                such marketing to you by post, telephone call, short message service, online messaging
+                                service, email or through any other modes;</p>
+                        </li>
+                        <li>
+                            <p>To contact or communicate with you for the purposes of administering, dealing with or
+                                managing your Account;</p>
+                        </li>
+                        <li>
+                            <p>To carry out due diligence or other screening activities (including credit checks, KYC
+                                checks, security and background checks) in accordance with legal or regulatory
+                                obligations or as we may from time to time require;</p>
+                        </li>
+                        <li>
+                            <p>To prevent or investigate fraud, unlawful activity, misconduct or complaints;</p>
+                        </li>
+                        <li>
+                            <p>To comply with any applicable law, or legal, governmental or regulatory requests,
+                                direction, processes, proceedings or requirements of any jurisdiction;</p>
+                        </li>
+                        <li>
+                            <p>To enforce our Terms of Service or other agreements, or otherwise protect our rights in
+                                the event of a claim or dispute;</p>
+                        </li>
+                        <li>
+                            <p>To facilitate or deal with payment for goods or services, including verification of
+                                credit card details with third parties and matching procedures against databases of
+                                known fraudulent transactions (maintained by us or third parties);</p>
+                        </li>
+                        <li>
+                            <p>To deal with, handle or conduct disciplinary, security and quality assurance processes,
+                                matters or arrangements;</p>
+                        </li>
+                        <li>
+                            <p>To perform internal administrative, operational and technology tasks to facilitate,
+                                administer or manage your Account;</p>
+                        </li>
+                        <li>
+                            <p>To produce statistics and research for internal or statutory reporting or record-keeping
+                                and performing reviews;</p>
+                        </li>
+                        <li>
+                            <p>To store, host, back up (whether for disaster recovery or otherwise) personal data,
+                                whether within or outside the Territory; and</p>
+                        </li>
+                        <li>
+                            <p>In connection with mergers, acquisitions, joint ventures, sale of company assets,
+                                consolidation, restructuring, financing, business asset transactions or acquisition of
+                                all or part of our business by another entity.</p>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>We may disclose personal data to various third parties, whether within or outside the Territory,
+                        for any of the Purposes and these third parties in turn may collect, use, disclose or process
+                        personal data for any of the Purposes (<b>Representatives</b>):</p>
+                    <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 cMceue">
+                        <li>
+                            <p>banks, credit card issuers, debit card issuers, payment service providers and other
+                                payment gateways;</p>
+                        </li>
+                        <li>
+                            <p>our associated or affiliated organisations, including our parent companies, affiliates or
+                                subsidiaries;</p>
+                        </li>
+                        <li>
+                            <p>our agents, contractors, third party service providers or collaboration partners,
+                                including mailing houses; telecommunication companies; information technology companies
+                                and data centres; credit bureaus or other credit agencies; debt collectors; background
+                                check, identification verification and other KYC service providers; data analytics
+                                service providers; cloud storage providers; research agencies, merchant partners; and
+                            </p>
+                        </li>
+                        <li>
+                            <p>our legal advisors, law enforcement agencies, government authorities.</p>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>Please also be informed that by consenting to the terms of our policy, you agree that we, our
+                        Representatives and their business partners may contact you for reasons relating to the Purposes
+                        via email, SMS text messages, voice calls and/or other phone number-based messaging services
+                        regardless of your registration with any do-not-call registry, and you agree to the same.</p>
+                </li>
+                <li>
+                    <p>You may withdraw your consent for the collection, use or disclosure of your personal data in our
+                        possession or under our control by contacting our Data Protection Officer. However, your
+                        withdrawal of consent may result in our inability to perform the transactions requested by you
+                        on the Pace Services or Pace Platform and other similar consequences.</p>
+                </li>
+                <li>
+                    <p>We may collect, use, disclose or process personal data for purposes other than the Purposes,
+                        subject to obtaining from you the necessary additional consents.</p>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 kBYFax">
+                <li>
+                    <p><b>International Transfers of Personal Data</b></p>
+                </li>
+            </ol>
+            <p style="overflow-x: scroll;">You also consent to our transfer your personal data from the Territory to
+                another country for reasons in connection with the Purposes. When we transfer your personal data in such
+                cases, we will comply with our legal obligations in relation to your transfer of personal data,
+                including by putting appropriate safeguards to ensure an adequate level of protection of the personal
+                data. We will also ensure that the recipient of your personal data in that country outside of the
+                Territory is required to protect your personal data at a standard required under applicable laws.</p>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 iMfxDY">
+                <li>
+                    <p><b>Storage</b></p>
+                </li>
+            </ol>
+            <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 cufXCZ">
+                <li>
+                    <p>We protect personal data from loss, misuse, unauthorised access or disclosure, alteration or
+                        destruction using the same safeguards as we use for our own proprietary information. All
+                        information you provide to us is stored on secure servers and any payment transactions will be
+                        encrypted using SSL or similar appropriate technology. Where we give you (or where you have
+                        chosen) a password for your Account, you are responsible for keeping the password confidential.
+                        We ask you not to share a password with anyone.</p>
+                </li>
+                <li>
+                    <p>We take measures intended for your personal data in our possession or under our control to be
+                        destroyed or anonymized as soon as reasonable after retention is no longer necessary for the
+                        Purposes and any other legal or business purposes.</p>
+                </li>
+                <li>
+                    <p>You shall not:</p>
+                    <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 cMceue">
+                        <li>
+                            <p>use any device, software, routine, tool or any other form of system or technology,
+                                including any viruses, trojan horses, worms, time bombs or cancelbots, intended to
+                                damage or interfere with the Pace Services or Pace Platform or intercept or expropriate
+                                any system, data or information from the Pace Services or Pace Platform;</p>
+                        </li>
+                        <li>
+                            <p>take any action that imposes an unreasonable load on our infrastructure, including denial
+                                of service attacks, spam or any other similar action; or</p>
+                        </li>
+                        <li>
+                            <p>gain unauthorised entry to any Pace Services or Pace Platform, misuse passwords or misuse
+                                of any content or information made available by the Pace Services or Pace Platform.</p>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 leFYuz">
+                <li>
+                    <p><b>Links</b></p>
+                </li>
+            </ol>
+            <p>The Pace Services, Pace Platform and other digital and telecommunication channels may contain links to
+                other sites that are subject to different privacy policies. You should read the privacy policies of
+                these other sites. We have no control of personal data that you submit to or receive from these other
+                sites.</p>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 iBEsQG">
+                <li>
+                    <p><b>Marketing Consent</b></p>
+                </li>
+            </ol>
+            <p>If you no longer wish to receive marketing messages from us, you may withdraw your consent by emailing or
+                writing to our Data Protection Officer, or if applicable, using the unsubscribe facility contained in
+                the marketing message.</p>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 dWEXWG">
+                <li>
+                    <p><b>Data Access and Correction</b></p>
+                </li>
+            </ol>
+            <ol class="DocumentContent__OrderedList-sc-3bh8oi-3 bjoXtz">
+                <li>
+                    <p>You may access or correct any personal data that we hold about you, subject to the requirements
+                        of applicable law and applicable exemptions. If you like to obtain a copy of your personal data
+                        held by us or update or correct the personal data that you have provided to us, you may do so
+                        through your Account or contact our Data Protection Officer. We may require reasonable further
+                        information from you in order to ascertain your identity and process your access or correction
+                        request. We may charge a reasonable fee to process your access or correction request.</p>
+                </li>
+                <li>
+                    <p>We will use all reasonable efforts to complete your data access or correction request within 30
+                        days, commencing on the date we receive all information we reasonably require for completing the
+                        request.</p>
+                </li>
+                <li>
+                    <p>The applicable law may exempt certain types of personal data from being subject to your
+                        correction request and allows for situations where we are not required to carry out correction
+                        requests. We will send corrected personal data to every other organisation to which we disclosed
+                        the personal data within a year before the date the correction was made, except where that
+                        organisation does not need the corrected personal data for any of the Purposes.</p>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 eESDEP">
+                <li>
+                    <p>Contact Us</p>
+                </li>
+            </ol>
+            <p>If you have any complaints, grievances or enquiries about your personal data or our compliance with the
+                PDPA, you may contact our Data Protection Officer (<a href="mailto:dpo@pacenow.co">dpo@pacenow.co</a>).
+                We will use all reasonable efforts to address your complaints or grievances.</p>
+        </section>
+        <section>
+            <ol class="DocumentContent__HeaderList-sc-3bh8oi-4 jIbvus">
+                <li>
+                    <p><b>Updates</b></p>
+                </li>
+            </ol>
+            <p>We shall have the right to modify, update or amend the terms of this policy at any time by publishing the
+                updated policy on our website. By continuing to use the Pace Platform, Pace Services, our website or
+                engaging with us in any form, following the modifications, updates or amendments to this policy, you
+                shall be accepting the terms of such modifications, updates or amendments.</p>
+        </section>
+        <p><i><u>Published on 07 March 2022</u></i></p>
+    </div>
+</div>
