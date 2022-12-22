@@ -144,6 +144,18 @@ margin-top: 10vw;
 }
 }
 </style>
+<div class="table-contents">
+<h1 class="main-static-page__title">Privacy Policy</h1>
+<ul role="list" class="table-of-contents-list">
+<li class="table-content-item basic-policy-item">
+<p class="content-item__text">Basic Policy on the Protection of Personal Information (Privacy Policy)</p>
+</li>
+<li class="table-content-item personal-information-item">
+<p class="content-item__text">Agreement on the Handling of Personal Information</p>
+</li>
+</ul>
+</div>
+<div class="main-contents">
 <div id="basicPolicy" class="document-block">
 <h1 class="document-block-title">
 Basic Policy on the Protection of Personal Information (Privacy Policy)
@@ -1183,3 +1195,16 @@ Pace Services, the Applicant shall be accepting the terms of such
 modification, updates or amendments.</p>
 <p class="document-block-publish-date">Enacted: 1 January 2022</p>
 </div>
+</div>
+<script>
+$(".basic-policy-item").click(function () {
+$('html,body').animate({
+scrollTop: $("#basicPolicy").offset().top
+},'slow');
+});
+$(".personal-information-item").click(function () {
+$('html,body').animate({
+scrollTop: $("#agreementPolicy").offset().top
+},'slow');
+});
+</script>
