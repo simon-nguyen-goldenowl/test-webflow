@@ -1,0 +1,27 @@
+<script>
+
+    function findSecondMax(arr) {
+        let max = secMax = arr[0];
+        for(let i = 1; i < arr.length; i++  ) {
+            if(arr[i] == max) continue;
+            if(arr[i] > max) {
+                secMax = max;
+                max = arr[i];
+            } else {
+                if(arr[i] > secMax || secMax == max) secMax = arr[i]
+            }
+        }
+        return secMax < max ? secMax : 'no result'
+    }
+
+    let number = Math.floor(Math.random() * 100);
+    let input = [];
+    for(let i =0; i < number; i++ ) {
+        input.push(Math.floor(Math.random() * 100))
+    }
+    let sec = findSecondMax(input);
+    input.sort();
+    console.log(input)
+    console.log('result: ', sec)
+</script>
+
