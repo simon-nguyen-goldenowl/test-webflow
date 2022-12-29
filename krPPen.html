@@ -78,7 +78,17 @@ padding: 1vw;
 .main-block {
 margin-top: 5vw;
 }
-
+.square-list >li {position: relative;}
+.square-list >li::before{
+    content: "";
+    width: 1vw;
+    height: 1vw;
+    background: white;
+    position: absolute;
+    left: 0.5vw;
+    border: 0.5vw solid rgb(0, 0, 0);
+    top: 0.5vw;
+}
 .none-prefix-list>li::before {
 content: "" counter(item, none) " ";
 }
