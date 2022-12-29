@@ -1,0 +1,308 @@
+<style>
+.document-block {
+margin-top: 15vw;
+}
+
+.document-block-title {
+text-align: center;
+text-decoration: underline;
+}
+
+.document-block-description {
+margin-top: 1.5vw;
+margin-bottom: 1.5vw;
+}
+
+br {
+margin-bottom: 1.5vw;
+}
+
+.document-block-publish-date {
+text-decoration: underline;
+font-style: italic;
+}
+
+p {
+margin-top: 1.5vw;
+}
+
+section {
+margin-bottom: 1.5vw;
+}
+
+ol {
+list-style: none;
+counter-reset: item 0;
+padding-left: 0;
+margin-left: 3vw;
+}
+
+ul {
+margin-left: -1.5vw;
+}
+
+.main-list>li>ol {
+margin-left: 0;
+}
+
+blockquote {
+margin-left: -3vw;
+padding: 0;
+border-left: none;
+}
+
+li {
+margin-top: 1.5vw;
+}
+
+li::before {
+display: inline-block;
+counter-increment: item 1;
+width: 3vw;
+margin-left: -3vw;
+}
+
+li>p {
+display: inline;
+}
+
+table {
+width: 100%;
+margin: 1.5vw 0;
+border-collapse: collapse;
+text-align: center;
+}
+
+th,
+td {
+border: 1px solid #262324;
+padding: 1vw;
+}
+
+.main-block {
+margin-top: 5vw;
+}
+
+.square-list>li {
+position: relative;
+}
+
+.square-list>li::before {
+content: "";
+width: 1vw;
+height: 1vw;
+background: white;
+position: absolute;
+left: 0.5vw;
+border: 0.5vw solid rgb(0, 0, 0);
+top: 0.5vw;
+}
+
+.black-circle-list>li {
+position: relative;
+}
+
+.black-circle-list>li::before {
+content: "";
+position: absolute;
+
+width: 0.5vw;
+height: 0.5vw;
+background: black;
+left: 5px;
+border: 1px solid rgb(0, 0, 0);
+border-radius: 50%;
+top: 5px;
+}
+
+.none-prefix-list>li::before {
+content: "" counter(item, none) " ";
+}
+
+.lower-alpha-list>li::before {
+content: "(" counter(item, lower-alpha) ") ";
+}
+
+.number-list>li::before {
+content: counters(item, ".") ". ";
+}
+
+.duqrsn>li::before {
+content: "" counter(item, none) " ";
+}
+
+.number-bracket-list>li::before {
+content: "(" counter(item) ") ";
+}
+
+.number-bracket-list>li::before {
+content: "(" counter(item) ") ";
+}
+
+.number-right-bracket-list>li::before {
+content: counter(item) ") ";
+}
+
+.lower-alpha-bracket-list>li::before {
+content: "(" counter(item, lower-alpha) ") ";
+}
+
+.lower-roman-list>li::before {
+content: counter(item, lower-roman) ". ";
+}
+
+.lower-roman-bracket-list>li::before {
+content: "(" counter(item, lower-roman) ") ";
+}
+
+@media screen and (max-width: 767px) {
+.document-block-description {
+margin-top: 5vw;
+margin-bottom: 5vw;
+}
+
+section {
+margin-bottom: 5vw;
+}
+
+ol {
+margin-left: 7vw;
+}
+
+li:before {
+width: 7vw;
+margin-left: -7vw;
+}
+
+table {
+margin: 5vw 0;
+}
+
+th,
+td {
+padding: 5vw;
+}
+
+.main-block {
+margin-top: 10vw;
+}
+}
+</style>
+<div class="main-contents">
+<div class="document-block">
+<h1 class="document-block-title">개인정보의 처리 및 국외 이전에 대한
+동의서(사용자용)</h1>
+<p class="document-block-description">본인은 아래에 명시된 조항을 확인했으며, 페이스엔터프라이즈코리아
+유한회사(이하 “<strong>회사</strong>”)가 본인의 개인정보를 다음과 같이
+처리(개인정보의 수집, 이용 및 이전을 포함한다)하는 것에 동의합니다 :</p>
+
+<ol class="number-list main-list">
+<li><p><u>개인정보 국외 이전에 대한 동의</u></p>
+<ol class="number-list">
+<li><p>Amazon Web Services Singapore Pte Ltd</p>
+<ol class="black-circle-list">
+<li><p>개인정보 이전 항목：본인확인정보(이름, 생년월일, 성별, 국적,
+휴대전화번호, 이동통신사 정보, 거주지 주소), 본인 사진, 개인
+이메일주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：데이터 보관 및 인프라 관리</p>
+</li>
+<li><p>보유 및/또는 사용 기간：사용자의 탈퇴 및/또는 개인정보가 본
+개인정보처리방침에 명시된 목적에 더 이상 필요 없을 때까지</p>
+</li>
+</ol>
+</li>
+<li><p>Ekata, Inc.</p>
+<ol class="black-circle-list">
+<li><p>개인정보 이전 항목: 이름, 휴대전화번호, 이메일주소, IP
+주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：부정 사용자 감소 및 방지 목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：90일 또는 사용자의 탈퇴 및/또는
+개인정보가 본 개인정보처리방침에 명시된 목적에 더 이상 필요 없을
+때까지</p>
+</li>
+</ol>
+</li>
+<li><p>SEON Technologies Kft.</p>
+<ol class="black-circle-list">
+<li><p>개인정보 이전 항목: 이름, 휴대전화번호, 이메일주소, IP
+주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：부정 사용자 감소 및 방지 목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：90일 또는 사용자의 탈퇴 및/또는
+개인정보가 본 개인정보처리방침에 명시된 목적에 더 이상 필요 없을
+때까지</p>
+</li>
+</ol>
+</li>
+<li><p>Onfido Pte Ltd</p>
+<ol class="black-circle-list">
+<li><p>개인정보 이전 항목: 사용자 확인을 위한 이미지, 안면인식 및
+주민등록번호</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：고객알기제도(KYC), 자금세탁방지(AML)
+목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：데이터는 암호화 되어 30일간 보관된 후
+삭제됩니다</p>
+</li>
+</ol>
+</li>
+<li><p>Pace Enterprise Pte Ltd</p>
+<ol class="black-circle-list" >
+<li><p>개인정보 이전 항목: 본인확인정보(이름, 생년월일, 성별, 국적,
+휴대전화번호, 이동통신사 정보, 거주지 주소), 본인 사진, 개인
+이메일주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：서비스 제공 목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：사용자의 탈퇴 및/또는 개인정보가 본
+개인정보처리방침에 명시된 목적에 더 이상 필요 없을 때까지</p>
+</li>
+</ol>
+</li>
+<li><p>귀하는 위에 명시된 개인정보의 국외 이전을 거부할 권리가 있습니다.
+단, 국외 이전을 거부할 경우 본인 확인이 불가능하거나 서비스 이용이
+제한될 수 있습니다.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>"동의합니다"를 클릭함으로써 귀하는 위에 명시된 조항을
+확인하고 회사가 귀하의 개인정보를 국외로 이전하는 것에
+동의합니다.</strong></p>
+</div>
+</div>

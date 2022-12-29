@@ -1,0 +1,487 @@
+<style>
+.document-block {
+margin-top: 15vw;
+}
+
+.document-block-title {
+text-align: center;
+text-decoration: underline;
+}
+
+.document-block-description {
+margin-top: 1.5vw;
+margin-bottom: 1.5vw;
+}
+
+br {
+margin-bottom: 1.5vw;
+}
+
+.document-block-publish-date {
+text-decoration: underline;
+font-style: italic;
+}
+
+p {
+margin-top: 1.5vw;
+}
+
+section {
+margin-bottom: 1.5vw;
+}
+
+ol {
+list-style: none;
+counter-reset: item 0;
+padding-left: 0;
+margin-left: 3vw;
+}
+
+ul {
+margin-left: -1.5vw;
+}
+
+.main-list>li>ol {
+margin-left: 0;
+}
+
+blockquote {
+margin-left: -3vw;
+padding: 0;
+border-left: none;
+}
+
+li {
+margin-top: 1.5vw;
+}
+
+li::before {
+display: inline-block;
+counter-increment: item 1;
+width: 3vw;
+margin-left: -3vw;
+}
+
+li>p {
+display: inline;
+}
+
+table {
+width: 100%;
+margin: 1.5vw 0;
+border-collapse: collapse;
+text-align: center;
+}
+
+th,
+td {
+border: 1px solid #262324;
+padding: 1vw;
+}
+
+.main-block {
+margin-top: 5vw;
+}
+
+.square-list>li {
+position: relative;
+}
+
+.square-list>li::before {
+content: "";
+width: 1vw;
+height: 1vw;
+background: white;
+position: absolute;
+left: 0.5vw;
+border: 0.5vw solid rgb(0, 0, 0);
+top: 0.5vw;
+}
+
+.black-circle-list>li {
+position: relative;
+}
+
+.black-circle-list>li::before {
+content: "";
+position: absolute;
+
+width: 0.5vw;
+height: 0.5vw;
+background: black;
+left: 5px;
+border: 1px solid rgb(0, 0, 0);
+border-radius: 50%;
+top: 5px;
+}
+
+.none-prefix-list>li::before {
+content: "" counter(item, none) " ";
+}
+
+.lower-alpha-list>li::before {
+content: "(" counter(item, lower-alpha) ") ";
+}
+
+.number-list>li::before {
+content: counters(item, ".") ". ";
+}
+
+.duqrsn>li::before {
+content: "" counter(item, none) " ";
+}
+
+.number-bracket-list>li::before {
+content: "(" counter(item) ") ";
+}
+
+.number-bracket-list>li::before {
+content: "(" counter(item) ") ";
+}
+
+.number-right-bracket-list>li::before {
+content: counter(item) ") ";
+}
+
+.lower-alpha-bracket-list>li::before {
+content: "(" counter(item, lower-alpha) ") ";
+}
+
+.lower-roman-list>li::before {
+content: counter(item, lower-roman) ". ";
+}
+
+.lower-roman-bracket-list>li::before {
+content: "(" counter(item, lower-roman) ") ";
+}
+
+@media screen and (max-width: 767px) {
+.document-block-description {
+margin-top: 5vw;
+margin-bottom: 5vw;
+}
+
+section {
+margin-bottom: 5vw;
+}
+
+ol {
+margin-left: 7vw;
+}
+
+li:before {
+width: 7vw;
+margin-left: -7vw;
+}
+
+table {
+margin: 5vw 0;
+}
+
+th,
+td {
+padding: 5vw;
+}
+
+.main-block {
+margin-top: 10vw;
+}
+}
+</style>
+<div class="main-contents">
+<div class="document-block">
+<h1 class="document-block-title">개인정보의 처리 및 국외 이전에 대한
+동의서(사용자용)</h1>
+<p class="document-block-description">본인은 아래에 명시된 조항을 확인했으며, 페이스엔터프라이즈코리아
+유한회사(이하 “<strong>회사</strong>”)가 본인의 개인정보를 다음과 같이
+처리(개인정보의 수집, 이용 및 이전을 포함한다)하는 것에 동의합니다 :</p>
+<ol class="number-list main-list">
+<li><p><u>개인정보 수집 및 이용에 대한 동의</u></p>
+<ol class="number-list">
+<li><p>수집되는 일반 개인정보</p>
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 76%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>필수 정보 카테고리</strong></td>
+<td><strong>개인정보 항목</strong></td>
+</tr>
+<tr class="even">
+<td>회원가입 및 서비스 이용</td>
+<td>주민등록번호 앞 6자리, 본인확인정보(이름, 생년월일, 성별, 국적,
+휴대전화번호, 이동통신사 정보, 거주지 주소), 본인 사진, 이메일주소, SNS
+계정 ID, 모바일 디바이스 ID</td>
+</tr>
+<tr class="odd">
+<td>환불 처리</td>
+<td>휴대전화번호, 이메일주소</td>
+</tr>
+<tr class="even">
+<td>마케팅 등 프로모션 알림 전송</td>
+<td>휴대전화번호, 이메일주소</td>
+</tr>
+<tr class="odd">
+<td>경품, 증정품 및 상품 등 배송</td>
+<td>이름, 휴대전화번호, 자택 전화번호, 우편주소</td>
+</tr>
+<tr class="even">
+<td>직접 문의, 고객서비스 이용</td>
+<td>
+<p>이메일 주소</p>
+<p>1년 이상 서비스를 사용하지 않은 사용자(“<strong>비활성
+사용자</strong>”)와 비회원의 문의에 대응하기 위한 필수 정보:
+이메일주소(비회원 문의 시), 온라인 닉네임</p>
+<p>비활성 사용자의 문의에 대응하기 위한 선택 정보: ID, 이름, 이메일주소,
+휴대전화번호, 생년월일, 성별, 주소, 전화번호, 본인확인정보</p>
+<p>*고객문의 유형에 따라 수집되는 개인정보 항목이 변경될 수
+있습니다.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li><p>사용자가 회사 서비스 이용 시 수집되는 정보</p>
+<table>
+<colgroup>
+<col style="width: 71%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>개인정보 항목</strong></td>
+<td style="text-align: left;"><strong>이용기간</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">서비스 이용 기록, 접속 로그, 쿠키,
+접속IP정보(IP 주소, 접속 시간), 체결 기록, 사용자의 브라우저 종류,
+사용자 설정 정보</td>
+<td style="text-align: left;">사용자 탈퇴 시 혹은 관계 법률 및 규정에
+따라 규제될 때까지.</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li><p>목적</p>
+<ol class="number-bracket-list">
+<li><p>회사는 개인정보를 다음의 목적(이하 “<strong>목적</strong>”)을
+위하여 처리합니다.</p>
+<ol class="lower-alpha-bracket-list">
+<li><p>회사가 제공하는 선구매<strong>-</strong>후결제 서비스(이하
+“<strong>서비스</strong>”)를 위한 사용자 가입을 처리 및 사용자 정보
+관리를 위하여;</p>
+</li>
+<li><p>사용자를 식별하고 인증하기 위하여;</p>
+</li>
+<li><p>사용자 계정 및 사용자의 서비스 사용을 유지 및 관리하기
+위하여;</p>
+</li>
+<li><p>각종 알림과 공지 사항을 전달하기 위하여;</p>
+</li>
+<li><p>분쟁 조정 및 해결을 위한 기록 보존을 위하여;</p>
+</li>
+<li><p>회사의 서비스이용약관 및 기타 계약 사항 시행하거나, 청구 또는
+분쟁 발생 시 회사의 권리를 보호하기 위하여;</p>
+</li>
+<li><p>보안 및 품질보증 절차를 다루고 처리하기 위하여;</p>
+</li>
+<li><p>회사 내부의 행정적∙실무적∙기술적 업무 관리를 위하여;</p>
+</li>
+<li><p>회사의 인수∙합병, 합작 투자, 회사 자산 매각, 병합, 구조 조정,
+자금 조달, 사업 자산 거래 또는 다른 기업에 의한 회사 사업의 전부 또는
+일부 인수와 관련된 사안을 위하여;</p>
+</li>
+<li><p>민원인의 신원 확인, 민원사항 확인, 조사 및 통지를 위한 연락 및
+답변 통지를 포함하여 문의, 항의, 또는 민원을 조사하고 해결하기
+위하여;</p>
+</li>
+<li><p>맞춤 서비스 제공, 인구통계학적 특상에 따른 맞춤 컨텐츠 추천, 신규
+서비스 개발, 다양한 서비스 제공 등의 광고 목적, 이벤트 프로모션 또는
+광고 등의 마케팅 목적, 서비스 이용 이력, 접속 및 이용 빈도에 따른 통계
+분석, 개인정보 보호 및 서비스 개선을 위한 서비스 환경 구축 및 신규
+서비스 개발을 위하여;</p>
+</li>
+<li><p>사기, 불법 행위 또는 부정 행위를 방지하거나 조사하기
+위하여;</p>
+</li>
+<li><p>법적 또는 규제 의무에 따라 또는 회사가 수시로 요구하는 실사 또는
+그 외 심사 (신용 확인(해당되는 경우) 및 그 외 KYC 체크를 포함)를
+수행하기 위하여;</p>
+</li>
+<li><p>제3자와 신용카드 또는 직불카드 정보 확인 및 회사 또는 제3자가
+유지 관리하는 알려진 사기 거래 데이터베이스와 일치 확인 절차를 포함하여
+제품 및 서비스 결제를 용이하게 하거나 처리하기 위하여;</p>
+</li>
+<li><p>관계 법률 및 규제에 따라 자료를 제공하거나 또는 법률에 명시된
+절차와 방법에 따라 수사 목적으로 이뤄진 법률 집행기관 및 수사기관의
+요구에 따르기 위하여.</p>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p>보유 및 이용 기간</p><br><br>
+<p>사용자의 탈퇴 요청 및 개인정보 수집 및 이용 동의를 철회하는 때까지
+또는 관계 법률 및 규제에서 요구하는 바에 따라 개인정보를 보유할 수
+있습니다. 다만, 회사는 사용자의 서비스 부정이용기록 또는 부정이용이
+합리적으로 의심되는 기록이 있는 경우에는 개인정보를 5년간 보관 및
+보유하거나 관계 법률 및 규제에서 요구하는 바에 따라 개인정보를 보관 및
+보유할 수 있습니다. 원칙적으로, 개인정보가 본 개인정보처리방침에 명시된
+목적에 더 이상 필요하지 않은 경우에 회사는 해당 개인정보를 지체없이
+파기합니다. 다만, 사용자의 별도 동의를 받은 개인정보 또는 일정기간 동안
+보유 및/또는 보존의무가 있는 개인정보는 다른 개인정보와 분리하여
+보관되어야 합니다.</p>
+</li>
+<li><p>회사는 다음의 법률 및 규제에 따라 특정 유형의 개인정보를 규정된
+기간동안 보유 할 수 있고, 규정된 기간동안 회사는 그 외 어떤 목적으로도
+개인정보를 보유하지 아니합니다.</p>
+<ol class="lower-alpha-bracket-list">
+<li><p>통신비밀보호법</p>
+<ol class="lower-roman-bracket-list">
+<li><p>전자통신 또는 인터넷 로그 기록에 관한 개인정보(로그인 정보) :
+3개월간 보유</p></li>
+</ol>
+</li>
+<li><p>전자상거래 등에서의 소비자보호에 관한 법률</p>
+<ol class="lower-roman-bracket-list">
+<li><p>계약 또는 청약철회 등에 관한 기록 : 5년간 보유</p>
+</li>
+<li><p>결제 및 상품 공급 등에 관한 기록 : 5년간 보유</p>
+</li>
+<li><p>소비자의 항의 또는 분쟁 해결에 관한 기록 : 3년간 보유</p>
+</li>
+</ol>
+</li>
+<li><p>국세기본법</p>
+<ol class="lower-roman-bracket-list">
+<li><p>조세 관계 법률에 규정된 모든 거래에 관한 장부 및 증빙서류 : 5년간
+보유</p></li>
+</ol>
+</li>
+
+</ol>
+</li>
+<li> <p>귀하는 위에 명시된 귀하의 개인정보 수집 및 이용을 거부할 권리가
+있습니다. 단, 수집 및 이용을 거부할 경우 본인 확인이 불가능하거나 서비스
+이용이 제한될 수 있습니다.</p></li>
+</ol>
+</li>
+</ol>
+
+<p><strong>"동의합니다"를 클릭함으로써 귀하는 위에 명시된 조항을
+확인하고 회사가 귀하의 개인정보를 처리 (수집, 사용 및 이전) 하는 것에
+동의합니다.</strong></p>
+<p><strong>본인은 개인정보의 국외 이전에 대한 회사의 설명을 읽고 충분히
+이해하였으며 이에 동의합니다.</strong></p>
+<ol start="2" type="1">
+<li><p><u>개인정보 국외 이전에 대한 동의</u></p>
+<ol type="1">
+<li><p>Amazon Web Services Singapore Pte Ltd</p>
+<ul>
+<li><p>개인정보 이전 항목：본인확인정보(이름, 생년월일, 성별, 국적,
+휴대전화번호, 이동통신사 정보, 거주지 주소), 본인 사진, 개인
+이메일주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：데이터 보관 및 인프라 관리</p>
+</li>
+<li><p>보유 및/또는 사용 기간：사용자의 탈퇴 및/또는 개인정보가 본
+개인정보처리방침에 명시된 목적에 더 이상 필요 없을 때까지</p>
+</li>
+</ul>
+</li>
+<li><p>Ekata, Inc.</p>
+<ul>
+<li><p>개인정보 이전 항목: 이름, 휴대전화번호, 이메일주소, IP
+주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：부정 사용자 감소 및 방지 목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：90일 또는 사용자의 탈퇴 및/또는
+개인정보가 본 개인정보처리방침에 명시된 목적에 더 이상 필요 없을
+때까지</p>
+</li>
+</ul>
+</li>
+<li><p>SEON Technologies Kft.</p>
+<ul>
+<li><p>개인정보 이전 항목: 이름, 휴대전화번호, 이메일주소, IP
+주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：부정 사용자 감소 및 방지 목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：90일 또는 사용자의 탈퇴 및/또는
+개인정보가 본 개인정보처리방침에 명시된 목적에 더 이상 필요 없을
+때까지</p>
+</li>
+</ul>
+</li>
+<li><p>Onfido Pte Ltd</p>
+<ul>
+<li><p>개인정보 이전 항목: 사용자 확인을 위한 이미지, 안면인식 및
+주민등록번호</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：고객알기제도(KYC), 자금세탁방지(AML)
+목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：데이터는 암호화 되어 30일간 보관된 후
+삭제됩니다</p>
+</li>
+</ul>
+</li>
+<li><p>Pace Enterprise Pte Ltd</p>
+<ul>
+<li><p>개인정보 이전 항목: 본인확인정보(이름, 생년월일, 성별, 국적,
+휴대전화번호, 이동통신사 정보, 거주지 주소), 본인 사진, 개인
+이메일주소</p>
+</li>
+<li><p>이전되는 국가：싱가포르</p>
+</li>
+<li><p>이전 날짜：사용자 회원가입 시</p>
+</li>
+<li><p>이전 방법：전자적 수단을 통한 이전</p>
+</li>
+<li><p>수령자의 사용 목적：서비스 제공 목적</p>
+</li>
+<li><p>보유 및/또는 사용 기간：사용자의 탈퇴 및/또는 개인정보가 본
+개인정보처리방침에 명시된 목적에 더 이상 필요 없을 때까지</p>
+</li>
+</ul>
+</li>
+<li><p>귀하는 위에 명시된 개인정보의 국외 이전을 거부할 권리가 있습니다.
+단, 국외 이전을 거부할 경우 본인 확인이 불가능하거나 서비스 이용이
+제한될 수 있습니다.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>"동의합니다"를 클릭함으로써 귀하는 위에 명시된 조항을
+확인하고 회사가 귀하의 개인정보를 국외로 이전하는 것에
+동의합니다.</strong></p>
+</div>
+</div>
