@@ -1,0 +1,263 @@
+<style>
+.document-block {
+margin-top: 15vw;
+}
+
+.document-block-title {
+text-align: center;
+text-decoration: underline;
+}
+
+.document-block-description {
+margin-top: 1.5vw;
+margin-bottom: 1.5vw;
+}
+
+br {
+margin-bottom: 1.5vw;
+}
+
+.document-block-publish-date {
+text-decoration: underline;
+font-style: italic;
+}
+
+p {
+margin-top: 1.5vw;
+}
+
+section {
+margin-bottom: 1.5vw;
+}
+
+ol {
+list-style: none;
+counter-reset: item 0;
+padding-left: 0;
+margin-left: 3vw;
+}
+
+ul {
+margin-left: -1.5vw;
+}
+
+.main-list>li>ol {
+margin-left: 0;
+}
+
+blockquote {
+margin-left: -3vw;
+padding: 0;
+border-left: none;
+}
+
+li {
+margin-top: 1.5vw;
+}
+
+li::before {
+display: inline-block;
+counter-increment: item 1;
+width: 3vw;
+margin-left: -3vw;
+}
+
+li>p {
+display: inline;
+}
+
+table {
+width: 100%;
+margin: 1.5vw 0;
+border-collapse: collapse;
+text-align: center;
+}
+
+th,
+td {
+border: 1px solid #262324;
+padding: 1vw;
+}
+
+.main-block {
+margin-top: 5vw;
+}
+
+.square-list>li {
+position: relative;
+}
+
+.square-list>li::before {
+content: "";
+width: 1vw;
+height: 1vw;
+background: white;
+position: absolute;
+left: 0.5vw;
+border: 0.5vw solid rgb(0, 0, 0);
+top: 0.5vw;
+}
+
+.black-circle-list>li {
+position: relative;
+}
+
+.black-circle-list>li::before {
+content: "";
+position: absolute;
+
+width: 0.5vw;
+height: 0.5vw;
+background: black;
+left: 5px;
+border: 1px solid rgb(0, 0, 0);
+border-radius: 50%;
+top: 5px;
+}
+
+.none-prefix-list>li::before {
+content: "" counter(item, none) " ";
+}
+
+.lower-alpha-list>li::before {
+content: "(" counter(item, lower-alpha) ") ";
+}
+
+.number-list>li::before {
+content: counters(item, ".") ". ";
+}
+
+.duqrsn>li::before {
+content: "" counter(item, none) " ";
+}
+
+.number-bracket-list>li::before {
+content: "(" counter(item) ") ";
+}
+
+.number-bracket-list>li::before {
+content: "(" counter(item) ") ";
+}
+
+.number-right-bracket-list>li::before {
+content: counter(item) ") ";
+}
+
+.lower-alpha-bracket-list>li::before {
+content: "(" counter(item, lower-alpha) ") ";
+}
+
+.lower-roman-list>li::before {
+content: counter(item, lower-roman) ". ";
+}
+
+.lower-roman-bracket-list>li::before {
+content: "(" counter(item, lower-roman) ") ";
+}
+
+@media screen and (max-width: 767px) {
+.document-block-description {
+margin-top: 5vw;
+margin-bottom: 5vw;
+}
+
+section {
+margin-bottom: 5vw;
+}
+
+ol {
+margin-left: 7vw;
+}
+
+li:before {
+width: 7vw;
+margin-left: -7vw;
+}
+
+table {
+margin: 5vw 0;
+}
+
+th,
+td {
+padding: 5vw;
+}
+
+.main-block {
+margin-top: 10vw;
+}
+}
+</style>
+<div class="main-contents">
+<div class="document-block">
+<h1 class="document-block-title">Consent Form for Processing and Overseas Transfer of Personal Information (For
+Users)</h1>
+<p class="document-block-description">I have verified the provisions as set out below and hereby consent to Pace
+Enterprise Korea LLC (hereinafter, the "Company") processing (e.g., collecting, using, and transferring) my
+personal information as follows:</p>
+
+<ol class="number-list main-list">
+<li><p><strong><u>Consent to Transfer of Personal Information Overseas</u></strong></p>
+<ol class="number-list">
+<li><p>Amazon Web Services Singapore Pte Ltd</p>
+<ol class="black-circle-list">
+<li><p>Types of personal information on transferred: Personal identification information (full name, date of birth, gender, nationality, mobile phone number, mobile service provider, residential address), the user’s face photo, personal email address</p></li>
+<li><p>Country: Singapore</p></li>
+<li><p>Date of transfer: At the time of User registration</p></li>
+<li><p>Method of transfer: Transferred through electronic means</p></li>
+<li><p>Recipient company: Amazon Web Services Singapore Pte Ltd</p></li>
+<li><p>Purpose of use by recipient: For the purposes of data storing and infrastructure management</p></li>
+<li><p>Period of retention: Until User withdraws and/or the personal information is no longer necessary for the Purposes</p></li>
+</ol>
+</li>
+<li><p>Ekata, Inc.</p>
+<ol class="black-circle-list">
+<li><p>Types of personal information on transferred: Full name, phone, email, IP address</p></li>
+<li><p>Country: Singapore</p></li>
+<li><p>Date of transfer: At the time of User registration</p></li>
+<li><p>Method of transfer: Transferred through electronic means</p></li>
+<li><p>Recipient company: Ekata</p></li>
+<li><p>Purpose of use by recipient: For the purpose of reducing and preventing fraudulent Users</p></li>
+<li><p>Period of retention: 90 days or until User withdraws and/or the personal information is no longer necessary for the Purposes</p></li>
+</ol>
+</li>
+<li><p>SEON Technologies Kft.</p>
+<ol class="black-circle-list">
+<li><p>Types of personal information on transferred: Full name, phone, email, IP address</p></li>
+<li><p>Country: Singapore</p></li>
+<li><p>Date of transfer: At the time of User registration</p></li>
+<li><p>Method of transfer: Transferred through electronic means</p></li>
+<li><p>Recipient company:  SEON Technologies Kft.</p></li>
+<li><p>Purpose of use by recipient: For the purpose of reducing and preventing fraudulent Users</p></li>
+<li><p>Period of retention: 90 days or until User withdraws and/or the personal information is no longer necessary for the Purposes</p></li>
+</ol>
+</li>
+<li><p>Onfido Pte Ltd</p>
+<ol class="black-circle-list">
+<li><p>Types of personal information on transferred: Images of user identification, facial recognition, and national identity number</p></li>
+<li><p>Country: Singapore</p></li>
+<li><p>Date of transfer: At the time of User registration</p></li>
+<li><p>Method of transfer: Transferred through electronic means</p></li>
+<li><p>Recipient company:  Onfido Pte Ltd</p></li>
+<li><p>Purpose of use by Recipient: For the purpose of Know Your Customer (KYC), Anti Money Laundering (AML)</p></li>
+<li><p>Period of retention: Data is encrypted and stored for 30 days before it is purged.</p></li>
+</ol>
+</li>
+<li><p>Pace Enterprises Pte Ltd</p>
+<ol class="black-circle-list">
+<li><p>Types of personal information on transferred: Personal identification information (full name, date of birth, gender, nationality, mobile phone number, mobile service provider, residential address), the user’s face photo, personal email address</p></li>
+<li><p>Country: Singapore</p></li>
+<li><p>Date of transfer: At the time of User registration</p></li>
+<li><p>Method of transfer: Transferred through electronic means</p></li>
+<li><p>Recipient company:  Pace Enterprises Pte Ltd</p></li>
+<li><p>Purpose of use by Recipient: For the purposes of data storing and infrastructure management</p></li>
+<li><p>Period of retention: Until User withdraws and/or the personal information is no longer necessary for the Purposes</p></li>
+</ol>
+</li>
+<li><p>You have the right to refuse the overseas transfer of your personal information as set forth above. However, if you refuse to such overseas transfer, you may not be able to verify your identity and/or your use of the Services may be restricted.</p></li>
+</ol>
+</li>
+</ol>
+<p><strong>By clicking "I agree", you hereby agree that you have verified the provisions as set out above and hereby consent to the Company transferring your personal information overseas.</strong></p>
+</div>
+</div>
