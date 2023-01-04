@@ -1,0 +1,21 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "Z8CFZ9926A.co.pacenow.internal.sit",
+          "paths": [
+            "NOT /_/*",
+            "/*"
+          ]
+        },
+        {
+            "appID": "Z8CFZ9926A.co.pacenow.app",
+            "paths": [
+              "NOT /_/*",
+              "/*"
+            ]
+          }
+      ]
+    }
+  }
