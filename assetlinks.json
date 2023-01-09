@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.pacenow.app",
+      "sha256_cert_fingerprints": [
+        "7A:8A:80:BB:4E:04:97:76:62:80:6D:17:38:0B:3C:A2:D7:75:61:AA:17:B7:04:C9:DE:3A:AB:88:E5:15:5D:8C"
+      ]
+    }
+  }
+]
